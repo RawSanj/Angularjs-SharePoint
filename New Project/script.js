@@ -13,8 +13,8 @@ app.controller('PageCtrl', ['$scope', '$http', 'filterFilter', function ($scope,
 	$scope.items = {};
 	$scope.myClass = "displayimage";
 	$http.defaults.headers.common['Accept'] = 'application/json;odata=verbose';
-	//$http.get('http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/CoreMembers').
-    $http.get("http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker?$filter=Release eq 'Remedy Release 3.0'").
+	//$http.get('http://sharepoint.companyxyz.com/_vti_bin/ListData.svc/CoreMembers').
+    $http.get("http://sharepoint.companyxyz.com/_vti_bin/ListData.svc/IssueTracker").
         success(function(data) {
     	$scope.items = data.d.results;
     	$scope.myClass = "hideimage";
