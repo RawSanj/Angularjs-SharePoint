@@ -1,2 +1,2 @@
-# codingground
-Main Repository for Coding Ground
+# Angularjs-SharePoint
+Main Repository for Angularjs-SharePoint.
