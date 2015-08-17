@@ -1,14 +1,321 @@
-<!doctype html>
-<html ng-app>
+<!DOCTYPE html>
+<html lang="en" ng-app="myApp">
   <head>
-    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.3/angular.min.js"></script>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Issue Tracker Tool</title>
+
+    <meta name="description" content="Source code generated using layoutit.com">
+    <meta name="author" content="LayoutIt!">
+    <!-- JS Libraries for Angulat.UI and Angular-Main-->
+		<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.2.19/angular.min.js" type="text/javascript"></script>
+		<script src="http://angular-ui.github.io/bootstrap/ui-bootstrap-tpls-0.10.0.js" type="text/javascript"></script>
+
+		<!-- Angular Scripts -->
+		<script src="script.js" type="text/javascript"></script>
+	    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet">
+	    <link href="css/style.css" rel="stylesheet">
+
+	<style type="text/css">
+	.displayimage{
+		display: block;
+		background-image: url("https://d13yacurqjgara.cloudfront.net/users/12755/screenshots/1037374/hex-loader2.gif");
+		background-repeat: no-repeat;
+		background-position: center;
+		height: 190px;
+		font-size: 20px;
+		margin: 0 auto;
+	}
+	.hideimage{
+		display: none;
+	}
+	.reduce-padding{
+		padding: 2px;
+		padding-top: 8px;
+	}
+	.reduce-padding ul{
+		padding-left: 20px;
+	}
+	li a:hover {
+				 text-decoration: none;
+				 color: rgba(53, 126, 82, 1);
+				 font-weight: bold;
+	}
+	li a{
+		 text-decoration: none;
+		 color: rgba(53, 126, 82, 1)
+		 
+	}
+
+
+	
+	a{
+		 text-decoration: none;
+		 color: rgba(255,0,0,0.8);
+		 
+	}	
+	a:hover {
+		 text-decoration: none;
+		 color: rgba(255,0,0,0.8);
+		 font-weight: bold;
+	}
+	.reduce-panel-padding{
+		padding-left: 0px;
+	}
+	</style>
   </head>
   <body>
-    <div>
-      <label>Name:</label>
-      <input type="text" ng-model="yourName" placeholder="Enter a name here">
-      <hr>
-      <h1>Hello {{yourName}}!</h1>
-    </div>
+  	<div ng-controller="PageCtrl">
+	    <div class="container-fluid">
+			<div class="row">
+				<div class="col-md-12">
+					<h2 class="text-center text-success">
+						Issue Tracker
+					</h2>
+					<nav class="navbar navbar-default" role="navigation">
+						<div class="navbar-header">
+							 
+							<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+								 <span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span>
+							</button> <a class="navbar-brand" href="#">Issues</a>
+						</div>
+						
+						<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+							<ul class="nav navbar-nav">
+								<!-- <li class="active">
+									<a href="#">Link</a>
+								</li>
+								<li>
+									<a href="#">Link</a>
+								</li> -->
+								<li class="dropdown">
+									 <a href="#" class="dropdown-toggle" data-toggle="dropdown">Release<strong class="caret"></strong></a>
+									<ul class="dropdown-menu">
+										<li>
+											<a href="#">Action</a>
+										</li>
+										<li>
+											<a href="#">Another action</a>
+										</li>
+										<li>
+											<a href="#">Something else here</a>
+										</li>
+									</ul>
+								</li>
+							</ul>
+							<form class="navbar-form navbar-left" role="search">
+								<div class="form-group">
+									Search: <input class="form-control" type="text" ng-model="search.Title" placeholder="Search Issues by Title" style="width:300px">
+									<input class="form-control" type="text" ng-model="search.Id" placeholder="Search Issues by Id" style="width:150px">
+								</div> 
+								<!-- <button type="submit" class="btn btn-default">
+									Submit 
+								</button> -->
+							</form>
+							<!-- <ul class="nav navbar-nav navbar-right">
+								<li>
+									<a href="#">Link</a>
+								</li>
+								<li class="dropdown">
+									 <a href="#" class="dropdown-toggle" data-toggle="dropdown">Dropdown<strong class="caret"></strong></a>
+									<ul class="dropdown-menu">
+										<li>
+											<a href="#">Action</a>
+										</li>
+										<li>
+											<a href="#">Another action</a>
+										</li>
+										<li>
+											<a href="#">Something else here</a>
+										</li>
+										<li class="divider">
+										</li>
+										<li>
+											<a href="#">Separated link</a>
+										</li>
+									</ul>
+								</li>
+							</ul> -->
+						</div>
+						
+					</nav>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-2 panel">
+					<div class="panel panel-success">
+						<div class="panel-heading">
+							Filter by Severity:
+						</div>
+						<div class="panel-body reduce-padding">
+							<ol>
+								<li>
+									<a href="" ng-click="search.SeverityValue='0-Pending'">
+										Pending - <strong>{{severityCount.pendingCount}}</strong> 
+									</a>
+								</li>
+								<li>
+									<a href="" ng-click="search.SeverityValue='1-Critical'">
+										Critical - <strong>{{severityCount.criticalCount}}</strong>
+									</a>
+								</li>
+								<li>
+									<a href="" ng-click="search.SeverityValue='2-High'">
+										High - <strong>{{severityCount.highCount}}</strong>
+									</a>
+								</li>
+								<li>
+									<a href="" ng-click="search.SeverityValue='3-Medium'">
+										Medium - <strong>{{severityCount.mediumCount}}</strong>
+									</a>
+								</li>
+								<li>
+									<a href="" ng-click="search.SeverityValue='4-Low'">
+										Low - <strong>{{severityCount.lowCount}}</strong>
+									</a>
+								</li>
+								<li>
+									<a href="" ng-click="search.SeverityValue='5-N/A'">
+										N/A - <strong>{{severityCount.naCount}}</strong>
+									</a>
+								</li>
+							</ol>
+						</div>
+					</div>
+					<div class="panel panel-warning">
+						<div class="panel-heading">
+							Filter by Root Cause:
+						</div>
+						<div class="panel-body reduce-padding">
+							<ul>
+								<li><a href="" ng-click="search.RootCauseValue='Code'">
+									Code - <strong>{{rootCauseCount.Code}}</strong>
+								</a></li>
+								<li><a href="" ng-click="search.RootCauseValue='Data'">
+									Data - <strong>{{rootCauseCount.Data}}</strong>
+								</a></li>
+								<li><a href="" ng-click="search.RootCauseValue='Script'">
+									Script - <strong>{{rootCauseCount.Script}}</strong>
+								</a></li>
+								<li><a href="" ng-click="search.RootCauseValue='Working As Designed'">
+									Working As Designed - <strong>{{rootCauseCount.WorkingAsDesigned}}</strong>
+								</a></li>
+								<li><a href="" ng-click="search.RootCauseValue='Missed Requirement'">
+									Missed Requirement - <strong>{{rootCauseCount.MissedRequirement}}</strong>
+								</a></li>
+								<li><a href="" ng-click="search.RootCauseValue='Requirement Updates'">
+									Requirement Updates - <strong>{{rootCauseCount.RequirementUpdates}}</strong>
+								</a></li>
+								<li><a href="" ng-click="search.RootCauseValue='User Education'">
+									User Education - <strong>{{rootCauseCount.UserEducation}}</strong>
+								</a></li>
+								<li><a href="" ng-click="search.RootCauseValue='Environmental'">
+									Environmental - <strong>{{rootCauseCount.Environmental}}</strong>
+								</a></li>
+								<li><a href="" ng-click="search.RootCauseValue='Infrastructure'">
+									Infrastructure - <strong>{{rootCauseCount.Infrastructure}}</strong>
+								</a></li>
+								<li><a href="" ng-click="search.RootCauseValue='Interface Not Running'">
+									Interface Not Running - <strong>{{rootCauseCount.InterfaceNotRunning}}</strong>
+								</a></li>
+								<li><a href="" ng-click="search.RootCauseValue='Interfacing Application'">
+									Interfacing Application - <strong>{{rootCauseCount.InterfacingApplication}}</strong>
+								</a></li>
+							</ul>
+						</div>
+					</div>
+					<div class="panel panel-info">
+						<div class="panel-body">
+							<li><a href="" ng-click="resetFilters()">Reset Filters</a></li>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-10 reduce-panel-padding">
+					<table class="table table-bordered table-hover">
+						<thead>	
+					  		<tr>
+					        	 <td> <a href="" ng-click="orderByCriteria='Id'; reverse = !reverse"> Issue Id </a> </td> 
+					        	 <td> <a href="" ng-click="orderByCriteria='Title'; reverse = !reverse">Title</a></td>
+					        	 <td> <a href="" ng-click="orderByCriteria='Release'; reverse = !reverse">Release</a> </td> 
+					        	 <td> <a href="" ng-click="orderByCriteria='RootCauseValue'; reverse = !reverse">Root Cause</a> </td> 
+					        	 <td> <a href="" ng-click="orderByCriteria='SeverityValue'; reverse = !reverse">Severity</a> </td> 
+					        	 <td> <a href="" ng-click="orderByCriteria='TestStatusValue'; reverse = !reverse">Test Status</a> </td> 
+					        	 <td> <a href="" ng-click="orderByCriteria='StatusValue'; reverse = !reverse">IT Status</a> </td>
+					    	</tr>
+						</thead>
+					  	<tbody>
+					  		
+					  		<tr ng-hide="myClass=='hideimage'"><td colspan="7"><div ng-class="myClass"></div></td></tr>
+						   	<!-- <tr ng-repeat="item in filtered = items | filter:search | startFrom:(currentPage-1)*itemLimit | limitTo:itemLimit"> -->
+						   	<tr ng-repeat = "item in items | orderBy: orderByCriteria : reverse | filter : search">
+						        <td>
+						         	<a id="modal-{{item.Id}}" href="#modal-container-{{item.Id}}" role="button" class="btn" data-toggle="modal">
+						         		{{item.Id}}
+						         	</a>
+						         	<div class="modal fade" id="modal-container-{{item.Id}}" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+										<div class="modal-dialog modal-lg">
+											<div class="modal-content">
+												<div class="modal-header">
+													 
+													<button type="button" class="close" data-dismiss="modal" aria-hidden="true">
+														×
+													</button>
+													<div class="row">
+														<div class="col-md-8"><br>
+															<h2 class="modal-title" id="myModalLabel">
+																Issue Id : {{item.Id}}
+															</h2>
+														</div>
+														<div class="col-md-4">
+															Status:<strong>{{item.StatusValue}} </strong> <br>
+															Severity: <strong>{{item.SeverityValue}}</strong>
+														</div>
+													</div>
+												</div>
+												<div class="modal-body">
+													
+
+
+
+
+												</div>
+												<div class="modal-footer">
+													 
+													<button type="button" class="btn btn-default" data-dismiss="modal">
+														Close
+													</button> 
+													<a type="button" class="btn btn-primary" target="_blank" href="http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/Lists/IssueTracker/Issue/displayifs.aspx?ID={{item.Id}}">
+														<!-- <a target="_blank" href="http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/Lists/IssueTracker/Issue/displayifs.aspx?ID={{item.Id}}">
+															More info
+														</a> -->More Info on <strong>Issue - {{item.Id}}</strong>
+													</a>
+												</div>
+											</div>
+											
+										</div>
+				
+									</div>
+						         </td> 
+						         <td>
+						         	<div style="width: 300px">{{item.Title}}</div>
+						         </td> 
+						         <td> {{item.Release}} </td> 
+						         <td> {{item.RootCauseValue}}  </td> 
+						         <td> {{item.SeverityValue}} </td> 
+						         <td> {{item.TestStatusValue}} </td> 
+						         <td> {{item.StatusValue}} </td>
+						         
+						    </tr>
+					    </tbody>
+					</table>
+				</div>
+			</div>
+		</div>
+	</div>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+    <script src="js/scripts.js"></script>
   </body>
 </html>
