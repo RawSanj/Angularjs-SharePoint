@@ -16,61 +16,10 @@
 		<!-- Angular Scripts -->
 		<script src="script.js" type="text/javascript"></script>
 	    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet">
-	    <link href="css/style.css" rel="stylesheet">
+	    <link href="css/main.css" rel="stylesheet">
+	    <link href="css/footer.css" rel="stylesheet">
+	    <link href="css/panel.css" rel="stylesheet">
 
-	<style type="text/css">
-	.displayimage{
-		display: block;
-		background-image: url("loading.gif");
-		background-repeat: no-repeat;
-		background-position: center;
-		height: 190px;
-		font-size: 20px;
-		margin: 0 auto;
-	}
-	.hideimage{
-		display: none;
-	}
-	.reduce-padding{
-		padding: 2px;
-		padding-top: 8px;
-	}
-	.reduce-padding ul{
-		padding-left: 20px;
-	}
-	li a:hover {
-				 text-decoration: none;
-				 color: rgba(53, 126, 82, 1);
-				 font-weight: bold;
-	}
-	li a{
-		 text-decoration: none;
-		 color: rgba(53, 126, 82, 1)
-		 
-	}
-
-
-	
-	a{
-		 text-decoration: none;
-		 color: rgba(255,0,0,0.8);
-		 
-	}	
-	a:hover {
-		 text-decoration: none;
-		 color: rgba(255,0,0,0.8);
-		 font-weight: bold;
-	}
-	.reduce-panel-padding{
-		padding-left: 0px;
-	}
-	.align-center{
-		text-align: center;
-	}
-	.pagination-sm > li > a, .pagination-sm > li > span{
-		font-size: 14px;
-	}
-	</style>
   </head>
   <body>
   	<div ng-controller="PageCtrl">
@@ -78,8 +27,8 @@
 			<div class="row">
 				<div class="col-md-12">
 					<h2 class="text-center text-success">
-						Issue Tracker
-					</h2>
+						Issue Tracker Tool
+					</h2><br>
 					<nav class="navbar navbar-default" role="navigation">
 						<div class="navbar-header">
 							 
@@ -217,10 +166,14 @@
 										</li>										
 									</ul>
 								</li>
+								<li>
+									<a href="#" style="font-size: 20px"><strong>{{releaseNames}}</strong></a>
+								</li>
 							</ul>
 							<form class="navbar-form navbar-left" role="search">
 								<div class="form-group">
-									Search: <input class="form-control" type="text" ng-model="search.Title" placeholder="Search Issues by Title" style="width:300px">
+
+									<input class="form-control" type="text" ng-model="search.Title" placeholder="Search Issues by Title" style="width:300px">
 									<input class="form-control" type="text" ng-model="search.Id" placeholder="Search Issues by Id" style="width:150px">
 
 								</div> 
@@ -229,9 +182,9 @@
 								</button> -->
 							</form>
 							<ul class="nav navbar-nav navbar-right">
-								<li>
+								<!-- <li>
 									<a href="#" style="font-size: 20px"><strong>{{releaseNames}}</strong></a>
-								</li>
+								</li> -->
 								<!-- <li class="dropdown">
 									 <a href="#" class="dropdown-toggle" data-toggle="dropdown">Dropdown<strong class="caret"></strong></a>
 									<ul class="dropdown-menu">
@@ -298,6 +251,45 @@
 							</ol>
 						</div>
 					</div>
+					<div class="panel panel-danger">
+						<div class="panel-heading">
+							Filter by Component:
+						</div>
+						<div class="panel-body reduce-padding">
+							<ul>
+								<li>
+									<a href="" ng-click="search.ComponentValue='Change Management'">
+										Change Management - <strong>{{severityCount.pendingCount}}</strong> 
+									</a>
+								</li>
+								<li>
+									<a href="" ng-click="search.ComponentValue='1-Critical'">
+										Critical - <strong>{{severityCount.criticalCount}}</strong>
+									</a>
+								</li>
+								<li>
+									<a href="" ng-click="search.ComponentValue='2-High'">
+										High - <strong>{{severityCount.highCount}}</strong>
+									</a>
+								</li>
+								<li>
+									<a href="" ng-click="search.ComponentValue='3-Medium'">
+										Medium - <strong>{{severityCount.mediumCount}}</strong>
+									</a>
+								</li>
+								<li>
+									<a href="" ng-click="search.ComponentValue='4-Low'">
+										Low - <strong>{{severityCount.lowCount}}</strong>
+									</a>
+								</li>
+								<li>
+									<a href="" ng-click="search.ComponentValue='5-N/A'">
+										N/A - <strong>{{severityCount.naCount}}</strong>
+									</a>
+								</li>
+							</ul>
+						</div>
+					</div>
 					<div class="panel panel-warning">
 						<div class="panel-heading">
 							Filter by Root Cause:
@@ -346,13 +338,14 @@
 						</div>
 					</div>
 				</div>
-				<div class="col-md-10 reduce-panel-padding align-center">
+				<div class="col-md-10 reduce-panel-padding">
 
-					<table class="table table-bordered table-hover">
+					<table class="table table-condensed table-hover">
 						<thead>	
 					  		<tr>
 					        	 <td> <a href="" ng-click="orderByCriteria='Id'; reverse = !reverse"> Issue Id </a> </td> 
 					        	 <td> <a href="" ng-click="orderByCriteria='Title'; reverse = !reverse">Title</a></td>
+					        	 <td> <a href="" ng-click="orderByCriteria='ComponentValue'; reverse = !reverse">Component</a></td>
 					        	 <td> <a href="" ng-click="orderByCriteria='RootCauseValue'; reverse = !reverse">Root Cause</a> </td> 
 					        	 <td> <a href="" ng-click="orderByCriteria='SeverityValue'; reverse = !reverse">Severity</a> </td> 
 					        	 <td> <a href="" ng-click="orderByCriteria='TestStatusValue'; reverse = !reverse">Test Status</a> </td> 
@@ -370,7 +363,7 @@
 						   	
 						   	<div>
 							   	<!-- <tr ng-repeat = "item in items | orderBy: orderByCriteria : reverse | filter : search | startFrom:(currentPage-1)*itemLimit | limitTo:itemLimit" ng-hide="myClass!='hideimage'"> -->
-							   	<tr ng-repeat="item in filtered = items | filter:search | startFrom:(currentPage-1)*entryLimit | limitTo:entryLimit" ng-hide="myClass!='hideimage'">
+							   	<tr ng-repeat="item in (filtered = items) | orderBy: orderByCriteria : reverse | filter:search | startFrom:(currentPage-1)*entryLimit | limitTo:entryLimit" ng-hide="myClass!='hideimage'" class="font-adjustment">
 
 							   	<!-- <tr ng-repeat = "item in items | orderBy: orderByCriteria : reverse | filter : search"> -->
 
@@ -425,6 +418,7 @@
 							         <td>
 							         	<div style="width: 300px">{{item.Title}}</div>
 							         </td> 
+							         <td>{{item.ComponentValue}}</td>
 							         <td> {{item.RootCauseValue}}  </td> 
 							         <td> {{item.SeverityValue}} </td> 
 							         <td> {{item.TestStatusValue}} </td> 
@@ -434,14 +428,33 @@
 							</div>
 					    </tbody>
 					</table>
-
-					<pagination page="currentPage" max-size="noOfPages" total-items="totalItems" items-per-page="entryLimit" class="pagination-sm" boundary-links="true" rotate="false" ></pagination>
-				 
-					<pre class="align-center"> Page: {{currentPage}} / {{noOfPages}} </pre>
+					<div class="align-center">
+						<pre style="padding: 4px"> Page: {{currentPage}} / {{noOfPages}} </pre>
+						<pagination page="currentPage" max-size="10" total-items="totalItems" items-per-page="entryLimit" class="pagination-sm" boundary-links="true" rotate="false" ></pagination>
+					</div>
+					
 				</div>
 			</div>
 		</div>
 	</div>
+	<footer class="footer-basic-centered">
+
+			<p class="footer-company-motto">Issue Tracker Tool</p>
+
+			<p class="footer-links">
+				
+				<a href="http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/default.aspx" target=_blank>Test Management</a>
+				·
+				<a href="http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/Lists/IssueTracker/Active.aspx" target=_blank>Issue Tracker</a>
+				·
+ 				<a href="http://sharepointapps.bankofamerica.com/sites/IRIS" target=_blank> IRIS </a>
+ 				·
+ 				<a href="mailto:sanjay.p.rawat@bankofamerica.com">Contact</a>
+ 
+			</p>
+
+			<p class="footer-company-name">© 2015 Bank of America Corporation. Author - <strong>Sanjay Rawat</strong> </p>
+	</footer>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
     <script src="js/scripts.js"></script>
