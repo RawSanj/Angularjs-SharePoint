@@ -1,0 +1,134 @@
+/*    /*CSS to display Modal at center*/
+    .vertical-alignment-helper {
+	    display:table;
+	    height: 100%;
+	    width: 100%;
+	    pointer-events:none;
+	}
+	.vertical-align-center {
+	    /* To center vertically */
+	    display: table-cell;
+	    vertical-align: middle;
+	    pointer-events:none;
+	}
+	.modal-content {
+	    /* Bootstrap sets the size of the modal in the modal-dialog class, we need to inherit it */
+	    width:inherit;
+	    height:inherit;
+	    /* To center horizontally */
+	    margin: 0 auto;
+	    pointer-events:all;
+	    width: 1000px;
+	}
+	
+	.modal-align-right{
+		margin-top: 30px;
+		float: right;
+	}
+	.modal-p-padding{
+		padding-right: 100px;
+		float: right;
+	}
+	.amcharts-main-div a{
+		display: none !important;
+	}
+	.amcharts-export-menu ul li a{
+		display: block !important;
+	}
+	.modal-header{
+		background-color: rgba(222, 239, 215, 0.5);
+	}
+	.modal-footer{
+		background-color: rgba(222, 239, 215, 0.5);
+	}
+	.modal-body{
+		background-color: rgba(222, 239, 215, 0.3);
+	}
+	.faint-heading{
+		background-color: rgba(242, 222, 222, 0.3) !important;
+		border-color: rgba(242, 222, 222, 0.6) !important;
+	}
+	.faint-body{
+		background-color: rgba(242, 222, 222, 0.2) !important;
+		font-family: "Verdana";
+		font-size: 11px;
+	}
+
+	 /*CSS for AmChart*/
+	#RootCauseChart {
+      	width   : 100%;
+      	height    : 400px;
+      	font-size : 12px;
+    }
+    #severityChart {
+		width		: 100%;
+		height		: 435px;
+		font-size	: 12px;
+	}																								
+    #componentChart {
+		width		: 100%;
+		height		: 435px;
+		font-size	: 12px;
+	}
+
+
+	/*This below code if for Future Additon of Themes to AmCharts
+	.demo-nav-top ul {
+	    margin: 0 60px 0 0;
+	    list-style: none;
+	    height: 40px;
+	    line-height: 38px;
+	}
+
+	.demo-nav-top li {
+	    float: left;
+	    margin: 0 0 0 10px;
+	    position: relative;
+	}
+
+	.demo-nav-top li a {
+	    border-radius: 7px;
+	    border-width: 4px;
+	    border-color: transparent;
+	    border-style: solid;
+	    width: 40px;
+	    height: 39px;
+	    display: block;
+	    position: relative;
+	}
+
+	.demo-nav-top li a:hover,.demo-nav-top li.active a {
+	    border-color: #c7d4f2;
+	}
+
+	.demo-nav-top li img {
+	    position: absolute;
+	    top: -1px;
+	    left: -2px;
+	}
+
+	.demo-body .nav-tabs,.demo-body .nav-tabs>li {
+	    margin: 0;
+	}
+
+	.demo-body .nav-tabs>li:before {
+	    display: none;
+	}
+
+	.demo-body .nav-tabs {
+	    margin: -10px -10px 0 -10px;
+	}
+
+	.demo-body .nav-tabs>li>a {
+	    background-color: none;
+	    border: none;
+	    border-radius: 0;
+	    color: #525263;
+	}
+
+	.demo-body .nav-tabs>li:hover>a,.demo-body .nav-tabs>li:focus>a,.demo-body .nav-tabs>li.active>a {
+	    background-color: #fbfbfb;
+	    border: none;
+	}*/
+    
+   */
