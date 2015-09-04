@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Amcharts Example</title>
+	</head>
+	
+	<script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
+	<script src="http://www.amcharts.com/lib/3/amcharts.js"></script>
+	<script src="http://www.amcharts.com/lib/3/pie.js"></script>
+	<script src="http://www.amcharts.com/lib/3/themes/light.js"></script>
+	<style type="text/css">
+		#chartdiv {
+			width		: 100%;
+			height		: 500px;
+			font-size	: 11px;
+		}
+		.amcharts-chart-div a{
+			display: none !important;
+		}
+		.amcharts-chart-div a{
+			display: none !important;
+		}
+
+
+		.demo-nav-top ul {
+		    margin: 0 60px 0 0;
+		    list-style: none;
+		    height: 40px;
+		    line-height: 38px;
+		}
+
+		.demo-nav-top li {
+		    float: left;
+		    margin: 0 0 0 10px;
+		    position: relative;
+		}
+
+		.demo-nav-top li a {
+		    border-radius: 7px;
+		    border-width: 4px;
+		    border-color: transparent;
+		    border-style: solid;
+		    width: 36px;
+		    height: 35px;
+		    display: block;
+		    position: relative;
+		}
+
+		.demo-nav-top li a:hover,.demo-nav-top li.active a {
+		    border-color: #c7d4f2;
+		}
+
+
+
+
+	</style>
+	<script type="text/javascript">
+		var chart = AmCharts.makeChart( "chartdiv", {
+		  "type": "pie",
+		  "theme": "light",
+		  "dataProvider": [ {
+		    "country": "Lithuania",
+		    "value": 260
+		  }, {
+		    "country": "Ireland",
+		    "value": 201
+		  }, {
+		    "country": "Germany",
+		    "value": 65
+		  }, {
+		    "country": "Australia",
+		    "value": 39
+		  }, {
+		    "country": "UK",
+		    "value": 19
+		  } ],
+		  "valueField": "value",
+		  "titleField": "country",
+		  "outlineAlpha": 0.4,
+		  "depth3D": 15,
+		  "balloonText": "[[title]]<br><span style='font-size:14px'><b>[[value]]</b> ([[percents]]%)</span>",
+		  "angle": 30,
+		  "export": {
+		    "enabled": true
+		  }
+		} );
+		jQuery( '.chart-input' ).off().on( 'input change', function() {
+		  var property = jQuery( this ).data( 'property' );
+		  var target = chart;
+		  var value = Number( this.value );
+		  chart.startDuration = 0;
+
+		  if ( property == 'innerRadius' ) {
+		    value += "%";
+		  }
+
+		  target[ property ] = value;
+		  chart.validateNow();
+		} );
+
+	</script>
+	<body>
+
+		<div class="demo-nav-top demo-themes pull-right ">
+			<ul>
+				<li>
+					<span class="size-small family-light color-lightgray m-hide">Click to change theme:&nbsp;&nbsp;</span>
+					<span class="size-small family-light color-lightgray m-only">Theme:&nbsp;&nbsp;</span>
+				</li>
+				<li class="demo-themes-item amcharts-tooltip active" data-theme="light" data-css="" data-title="Light" data-original-title="" title="">
+					<a class="fx-all-250" href="#theme-light">
+						<img width="36" height="35" src="http://www.amcharts.com/wp-content/uploads/2013/11/theme_light2.png" class="attachment-full wp-post-image" alt="theme_light"> 
+					</a>
+				</li>
+				<li class="demo-themes-item amcharts-tooltip" data-theme="dark" data-css="background: #3f3f4f;color:#ffffff;" data-title="Dark" data-original-title="" title="">
+					<a class="fx-all-250" href="#theme-dark">
+						<img width="36" height="35" src="http://www.amcharts.com/wp-content/uploads/2013/11/theme_dark2.png" class="attachment-full wp-post-image" alt="theme_dark"> 
+					</a>
+				</li>
+				<li class="demo-themes-item amcharts-tooltip" data-theme="chalk" data-css="background: #282828 url('http://www.amcharts.com/lib/3/patterns/chalk/bg.jpg');color: #fff;	" data-title="Chalk" data-original-title="" title="">
+					<a class="fx-all-250" href="#theme-chalk">
+						<img width="36" height="35" src="http://www.amcharts.com/wp-content/uploads/2013/11/theme_chalk.png" class="attachment-full wp-post-image" alt="theme_chalk"> 
+					</a>
+				</li>
+				<li class="demo-themes-item amcharts-tooltip" data-theme="patterns" data-css="" data-title="Patterns" data-original-title="" title="">
+					<a class="fx-all-250" href="#theme-patterns">
+						<img width="35" height="35" src="http://www.amcharts.com/wp-content/uploads/2013/11/theme_pattern2.png" class="attachment-full wp-post-image" alt="theme_pattern"> 
+					</a>
+				</li>
+				<li class="demo-themes-item amcharts-tooltip" data-theme="none" data-css="" data-title="Default" data-original-title="" title="">
+					<a class="fx-all-250" href="#theme-none">
+						<img width="36" height="35" src="http://www.amcharts.com/wp-content/uploads/2013/11/theme_none.png" class="attachment-full wp-post-image" alt="theme_none"> 
+					</a>
+				</li>
+			</ul>
+		</div>
+
+	<br><br>
+	<div id="chartdiv"></div>
+	<div class="container-fluid">
+	  <div class="row text-center" style="overflow:hidden;">
+			<div class="col-sm-3" style="float: none !important;display: inline-block;">
+				<label class="text-left">Angle:</label>
+				<input class="chart-input" data-property="angle" type="range" min="0" max="60" value="30" step="1"/>	
+			</div>
+
+			<div class="col-sm-3" style="float: none !important;display: inline-block;">
+				<label class="text-left">Depth:</label>
+				<input class="chart-input" data-property="depth3D" type="range" min="1" max="25" value="10" step="1"/>
+			</div>
+			<div class="col-sm-3" style="float: none !important;display: inline-block;">
+				<label class="text-left">Inner-Radius:</label>
+				<input class="chart-input" data-property="innerRadius" type="range" min="0" max="80" value="0" step="1"/>
+			</div>
+		</div>
+	</div>
+	</body>
+</html>															

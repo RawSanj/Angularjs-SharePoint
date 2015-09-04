@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Search</title>
+	</head>
+	<style type="text/css">
+		
+		body {
+		  background: #5a279c;
+		  color: #fff;
+		}
+		.searc-box{
+			height: 200px;
+			width: 800px;
+		}
+		.searc-box .inputbox {
+		  height: 50px;
+		  width: 300px;
+		  position: absolute;
+		  top: 50%;
+		  left: 50%;
+		  -webkit-transform: translate(-50%, -50%);
+		      -ms-transform: translate(-50%, -50%);
+		          transform: translate(-50%, -50%);
+		}
+		.searc-box .inputbox input {
+		  width: 100%;
+		  min-width: 0;
+		  box-sizing: border-box;
+		  font-size: 16px;
+		  padding: 16.5px 0;
+		  border: 0;
+		  background: none;
+		  width: 50px;
+		  position: absolute;
+		  top: 0;
+		  left: 50%;
+		  -webkit-transform: translateX(-50%);
+		      -ms-transform: translateX(-50%);
+		          transform: translateX(-50%);
+		  border-radius: 100%;
+		  -webkit-transition: width 0.4s ease-in-out, border-radius 0.4s ease-in-out, padding 0.2s;
+		          transition: width 0.4s ease-in-out, border-radius 0.4s ease-in-out, padding 0.2s;
+		  -webkit-transition-delay: 0s, 0.4s, 0s;
+		          transition-delay: 0s, 0.4s, 0s;
+		  box-shadow: 0 0 0 1px currentColor;
+		  color: inherit;
+		  cursor: pointer;
+		  padding: 16.5px 0;
+		  padding-right: 50px;
+		  font-weight: lighter;
+		  font-family: 'Roboto';
+		}
+		.searc-box .inputbox input:focus, .inputbox input:valid {
+		  width: 100%;
+		  -webkit-transition-delay: 0.4s, 0s, 0.4s;
+		          transition-delay: 0.4s, 0s, 0.4s;
+		  outline: 0;
+		  border-radius: 0;
+		  cursor: text;
+		  padding-left: 16.5px;
+		}
+		.searc-box .inputbox input:focus + .del, .inputbox input:valid + .del {
+		  pointer-events: all;
+		  left: calc(100% - 25px);
+		  -webkit-transition-delay: 0.4s;
+		          transition-delay: 0.4s;
+		}
+		.searc-box .inputbox input:focus + .del:focus, .inputbox input:valid + .del:focus {
+		  box-shadow: 0 0 0 1px currentColor;
+		  height: 37.5px;
+		  width: 37.5px;
+		}
+		.searc-box .inputbox input:focus + .del:before, .inputbox input:valid + .del:before {
+		  -webkit-transform: translate(-50%, -50%) rotate(-45deg) scaleY(0.7);
+		      -ms-transform: translate(-50%, -50%) rotate(-45deg) scaleY(0.7);
+		          transform: translate(-50%, -50%) rotate(-45deg) scaleY(0.7);
+		  -webkit-transition-delay: 0s;
+		          transition-delay: 0s;
+		}
+		.searc-box .inputbox input:focus + .del:after, .inputbox input:valid + .del:after {
+		  -webkit-transform: translate(-50%, -50%) rotate(45deg) scaleY(0.7);
+		      -ms-transform: translate(-50%, -50%) rotate(45deg) scaleY(0.7);
+		          transform: translate(-50%, -50%) rotate(45deg) scaleY(0.7);
+		  -webkit-transition-delay: 0.2s;
+		          transition-delay: 0.2s;
+		}
+		.searc-box .inputbox .del {
+		  position: absolute;
+		  top: 50%;
+		  left: 50%;
+		  -webkit-transform: translate(-50%, -50%);
+		      -ms-transform: translate(-50%, -50%);
+		          transform: translate(-50%, -50%);
+		  height: 50px;
+		  width: 50px;
+		  padding: 0;
+		  background: none;
+		  border-radius: 100%;
+		  border: 0;
+		  pointer-events: none;
+		  -webkit-transition: left 0.4s ease-in-out;
+		          transition: left 0.4s ease-in-out;
+		  -webkit-transition-delay: 0s;
+		          transition-delay: 0s;
+		  color: inherit;
+		  cursor: pointer;
+		}
+		.searc-box .inputbox .del:focus {
+		  outline: none;
+		}
+		.searc-box .inputbox .del:before {
+		  content: '';
+		  position: absolute;
+		  top: 50%;
+		  left: 50%;
+		  background: currentColor;
+		  width: 1px;
+		  height: 37.5px;
+		  -webkit-transform: translate(32.25px, 32.25px) translate(-50%, -50%) rotate(-45deg) scaleY(1);
+		      -ms-transform: translate(32.25px, 32.25px) translate(-50%, -50%) rotate(-45deg) scaleY(1);
+		          transform: translate(32.25px, 32.25px) translate(-50%, -50%) rotate(-45deg) scaleY(1);
+		  -webkit-transition: -webkit-transform 0.2s ease-in-out;
+		          transition: transform 0.2s ease-in-out;
+		  -webkit-transition-delay: 0.6s;
+		          transition-delay: 0.6s;
+		}
+		.searc-box .inputbox .del:after {
+		  content: '';
+		  position: absolute;
+		  top: 50%;
+		  left: 50%;
+		  background: currentColor;
+		  width: 1px;
+		  height: 37.5px;
+		  -webkit-transform: translate(-50%, -50%) rotate(45deg) scaleY(0);
+		      -ms-transform: translate(-50%, -50%) rotate(45deg) scaleY(0);
+		          transform: translate(-50%, -50%) rotate(45deg) scaleY(0);
+		  -webkit-transition: -webkit-transform 0.2s ease-in-out;
+		          transition: transform 0.2s ease-in-out;
+		  -webkit-transition-delay: 0.4s;
+		          transition-delay: 0.4s;
+		}
+
+	</style>
+	<body>
+		<div class="searc-box">
+			<form class="inputbox">
+				<input required="required"/>
+				<button type="reset" class="del"></button>
+			</form>
+		</div>
+	</body>
+</html>
+
