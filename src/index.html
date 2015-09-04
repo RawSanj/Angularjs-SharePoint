@@ -21,7 +21,7 @@
 		<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.3/angular-animate.js"></script>
 		<!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/ng-csv/0.3.3/ng-csv.min.js" type="text/javascript"></script> -->
 		
-		<script src="http://angular-ui.github.io/bootstrap/ui-bootstrap-tpls-0.10.0.js" type="text/javascript"></script>
+		<script src="http://angular-ui.github.io/bootstrap/ui-bootstrap-tpls-0.13.4.js" type="text/javascript"></script>
 
 		<!-- Angular Scripts -->
 		<script src="js/script.js" type="text/javascript"></script>
@@ -83,8 +83,17 @@
 													<a href="#" data-ng-click="restAPICall='Remedy Release 4.0'"> <strong>Remedy Release 4.0</strong> </a>
 												</li>
 												<li>
-													<a href="#" data-ng-click="restAPICall='Remedy Release 4.0.1'">Remedy Release 4.0.1</a>
+													<a href="#" data-ng-click="restAPICall='Remedy Release 4.2'">Remedy Release 4.2</a>
 												</li>
+												<li>
+													<a href="#" data-ng-click="restAPICall='Remedy Release 4.1'">Remedy Release 4.1</a>
+												</li>
+												<li>
+													<a href="#" data-ng-click="restAPICall='Remedy Release 4.0.2'">Remedy Release 4.0.2</a>
+												</li>
+												<li>
+													<a href="#" data-ng-click="restAPICall='Remedy Release 4.0.1'">Remedy Release 4.0.1</a>
+												</li>												
 												<li class="divider">
 												</li>
 												<li>
@@ -93,9 +102,9 @@
 												<li>
 													<a href="#" data-ng-click="restAPICall='Remedy Release 3.4'">Remedy Release 3.4</a>
 												</li>
-												<li>
+												<!-- <li>
 													<a href="#" data-ng-click="restAPICall='Remedy Release 3.1.1'">Remedy Release 3.1.1</a>
-												</li>
+												</li> -->
 												<li>
 													<a href="#" data-ng-click="restAPICall='Remedy Release 3.3'">Remedy Release 3.3</a>
 												</li>
@@ -116,7 +125,7 @@
 												<li>
 													<a href="#" data-ng-click="restAPICall='Remedy Release 2.3'">Remedy Release 2.3</a>
 												</li>
-												<li>
+												<!-- <li>
 													<a href="#" data-ng-click="restAPICall='Remedy Release 2.2.3'">Remedy Release 2.2.3</a>
 												</li>
 												<li>
@@ -124,7 +133,7 @@
 												</li>
 												<li>
 													<a href="#" data-ng-click="restAPICall='Remedy Release 2.2.1'">Remedy Release 2.2.1</a>
-												</li>
+												</li> -->
 												<li>
 													<a href="#" data-ng-click="restAPICall='Remedy Release 2.2'">Remedy Release 2.2</a>
 												</li>
@@ -188,6 +197,23 @@
 												<li>
 													<a href="#" data-ng-click="restAPICall='Regression - Auto'">Regression - Auto</a>
 												</li>
+												<li class="divider">
+												</li>
+												<li style="padding-left:4px; padding-right:4px;">
+													<div>
+													<input class="form-control" type="text" ng-model="inputRelease" placeholder="Type Release Name" ng-click="$event.stopPropagation()" typeahead="iprel for iprel in inputReleaseValues | filter:$viewValue | limitTo:8" typeahead-no-results="noResults">
+												    <div ng-show="noResults">
+												    	<i class="glyphicon glyphicon-remove"></i> No Results Found
+												    </div>
+													</div>
+													
+												</li>
+												<li style="padding-left:4px; padding-right:4px;padding-top:6px; padding-bottom:2px;">
+													<button type="button" class="btn btn-success btn-block" data-ng-click="restAPICall=inputRelease">
+														Submit
+													</button>
+													<!-- <a href="#" data-ng-click="restAPICall='Regression - Auto'">Regression - Auto</a> -->
+												</li>
 												<!-- <li class="divider">
 												</li>
 												<li>
@@ -208,12 +234,9 @@
 									</ul>
 									<form class="navbar-form navbar-left" role="search">
 										<div class="form-group">
-
 											<!-- <input class="form-control" type="text" ng-model="search.Title" placeholder="Search result by Title" style="width:300px"> -->
 											<!-- <input class="form-control" type="text" ng-model="search.Id" placeholder="Search results by Id" style="width:150px"> -->
 										</div> 
-
-
 									</form>
 									<ul class="nav navbar-nav navbar-right">
 										<!-- <li>
@@ -622,7 +645,8 @@
 							</div>
 							<div class="align-center">
 								<pre style="padding: 4px; margin-bottom: 0px;" > Page: {{currentPage}} / {{noOfPages}} </pre> 
-								<pagination page="currentPage" max-size="5" total-items="totalItems" items-per-page="entryLimit" class="pagination-sm" boundary-links="true" rotate="false" ></pagination>
+								
+								<pagination total-items="totalItems" ng-model="currentPage" max-size="5" class="pagination-sm" boundary-links="true" rotate="false" num-pages="noOfPages" items-per-page="entryLimit"></pagination>
 							</div>
 						</div>
 					</div>
@@ -1033,52 +1057,4 @@
 	    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
 	    <script src="js/scripts.js"></script>
   	</body>
-</html>
-
-
-										<!-- Code for Modal View of IT -->
-										<!-- 							        
-										<a id="modal-{{item.Id}}" href="#modal-container-{{item.Id}}" role="button" class="btn" data-toggle="modal">
-							         		{{item.Id}}
-							         	</a>
-							         	<div class="modal fade" id="modal-container-{{item.Id}}" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-											<div class="modal-dialog modal-lg">
-												<div class="modal-content">
-													<div class="modal-header">
-														 
-														<button type="button" class="close" data-dismiss="modal" aria-hidden="true">
-															×
-														</button>
-														<div class="row">
-															<div class="col-md-8"><br>
-																<h2 class="modal-title" id="myModalLabel">
-																	Issue Id : {{item.Id}}
-																</h2>
-															</div>
-															<div class="col-md-4">
-																Status:<strong>{{item.StatusValue}} </strong> <br>
-																Severity: <strong>{{item.SeverityValue}}</strong>
-															</div>
-														</div>
-													</div>
-													<div class="modal-body">
-														
-															
-														Data inside the Modal.
-
-
-													</div>
-													<div class="modal-footer">
-														 
-														<button type="button" class="btn btn-default" data-dismiss="modal">
-															Close
-														</button> 
-														<a type="button" class="btn btn-primary" target="_blank" href="http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/Lists/IssueTracker/Issue/displayifs.aspx?ID={{item.Id}}">
-															More Info on <strong>Issue - {{item.Id}}</strong>
-														</a>
-													</div>
-												</div>
-												
-											</div>
-					
-										</div> -->
+</html>									</div> -->
