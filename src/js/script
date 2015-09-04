@@ -10,9 +10,13 @@ app.filter('startFrom', function () {
 });
 
 app.controller('PageCtrl', ['$scope', '$http', '$timeout', '$sce', 'filterFilter', function ($scope, $http, $timeout, $sce, filterFilter) {
+
     //Hide and Display section when JS libs are available or not.
     jQuery("#hideIfNoJS").removeClass("hidden");
     jQuery("#hideIfJS").addClass("hidden");
+
+    //Release Names for Type Ahead.
+    $scope.inputReleaseValues = ['Remedy Release 4.0','Release 3.0 Review','Remedy Release 4.0.1','Remedy Release 4.2','Remedy 14.2.F.01','Remedy Release 3.4','Remedy Release 4.0.2','Remedy Release 1.3.1','AdHoc Testing','Production Found','BizTalk Release 1.9.1','Remedy Release 1.8','Remedy Release 2.2.3','14.6 Target nfrastructure','Remedy Release 1.6','Remedy Release 2.2.2','Remedy Release 2.2.1','Remedy Release 3.1.1','BizTalk Upgrade','Remedy Release 1.3','Remedy elease 1.6a','Remedy Release 1.2','Remedy Release 1.5','Remedy Release 1.4','Regression','Regression - Auto','Remedy Release 1.2.1','IRIS','Remedy elease 2.2','Remedy Release 2.1','Remedy Release 2.3','Remedy Release 3.0','Remedy Release 3.1','Remedy Release 3.2','Remedy Release 2.0','Remedy elease .5.B','Remedy Release 3.3'];
     $scope.editIssueUrl = "none";
     $scope.items = {};
     $scope.restAPICall = "Active Issues";
@@ -22,6 +26,8 @@ app.controller('PageCtrl', ['$scope', '$http', '$timeout', '$sce', 'filterFilter
     $scope.collapseWarning = false;
     $scope.collapseMore = true;
     $scope.$watch('restAPICall', function (newVal, oldVal) {
+        //clear field for placeholder.
+        $scope.inputRelease = "";
         $scope.myClass = "displayimage";
         $scope.disableRelease = "Disabled";
         if ($scope.restAPICall=="Active Issues") {
