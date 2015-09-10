@@ -40,8 +40,8 @@ app.controller('PageCtrl', ['$scope', '$http', '$timeout', '$sce', 'filterFilter
         $scope.initializenResetCount();
 
         $http.defaults.headers.common['Accept'] = 'application/json;odata=verbose';
-        //console.log("http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker?$filter="+ restQuery);
-        var url = "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker?$select=Id,Title,ComponentValue,SeverityValue,TestStatusValue,StatusValue,Release,RootCauseValue,ExistInProdValue,RelatedStory&$filter=";
+        //console.log("http://sharepoint.yourcompany.com/_vti_bin/ListData.svc/IssueTracker?$filter="+ restQuery);
+        var url = "http://sharepoint.yourcompany.com/_vti_bin/ListData.svc/IssueTracker?$select=Id,Title,ComponentValue,SeverityValue,TestStatusValue,StatusValue,Release,RootCauseValue,ExistInProdValue,RelatedStory&$filter=";
         $http.get(url+ restQuery).
             success(function(data) {
                 $scope.items = data.d.results;
@@ -302,7 +302,7 @@ app.controller('PageCtrl', ['$scope', '$http', '$timeout', '$sce', 'filterFilter
     $scope.searchIssueById = function(issueId){
         $scope.isIssueExist = false;
         $scope.dataLoading = false;
-        $http.get("http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker?$filter=Id eq "+issueId).
+        $http.get("http://sharepoint.yourcompany.com/_vti_bin/ListData.svc/IssueTracker?$filter=Id eq "+issueId).
         success(function(data) {
             $scope.searchReturnedById = data.d.results;
             if ($scope.searchReturnedById.length == 1) {
@@ -311,7 +311,7 @@ app.controller('PageCtrl', ['$scope', '$http', '$timeout', '$sce', 'filterFilter
                 $scope.dataLoading = true;
             }
             else{   
-                $http.get("http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTrackerArchive?$filter=Id eq "+ issueId).
+                $http.get("http://sharepoint.yourcompany.com/_vti_bin/ListData.svc/IssueTrackerArchive?$filter=Id eq "+ issueId).
                 success(function(data) {
                     $scope.searchReturnedById = data.d.results;
                     if ($scope.searchReturnedById.length == 1) {
@@ -331,7 +331,7 @@ app.controller('PageCtrl', ['$scope', '$http', '$timeout', '$sce', 'filterFilter
     //Method no longer required since iFrame for Edit Issue is not working in IE11
     // $scope.editIssue = function(issueId){
     //     $scope.dataLoading =false;
-    //     var trustedUrl = "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/Lists/IssueTracker/Issue/editifs.aspx?ID="+issueId;
+    //     var trustedUrl = "http://sharepoint.yourcompany.com//Lists/IssueTracker/Issue/editifs.aspx?ID="+issueId;
     //     $scope.editIssueUrl = $sce.trustAsResourceUrl(trustedUrl);
     //     $timeout(function(){
     //         $scope.dataLoading = true}, 2000); 
@@ -339,7 +339,7 @@ app.controller('PageCtrl', ['$scope', '$http', '$timeout', '$sce', 'filterFilter
 
     //Unused Testing function
     $scope.getReleaseNames = function(){
-        $http.get("http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/TestLibrary?$select=Release&$filter=ArchiveValue eq 'No' and IsRegression eq false").
+        $http.get("http://sharepoint.yourcompany.com/_vti_bin/ListData.svc/TestLibrary?$select=Release&$filter=ArchiveValue eq 'No' and IsRegression eq false").
         success(function(data) {
             $scope.listOfRelease = data.d.results;
             angular.forEach($scope.listOfRelease, function(value, key){
