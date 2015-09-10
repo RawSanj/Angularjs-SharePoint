@@ -1,0 +1,46 @@
+	thead tr td{
+		font-size: 13px;
+	}
+	td{
+		font-family: Verdana, Helvetica, sans-serif;
+		font-size: 11px;
+	}
+
+	a.btn {
+		font-size: 12px;
+	}
+
+	.displayimage{
+		display: block;
+		background-image: url("../images/loading.gif");
+		background-repeat: no-repeat;
+		background-position: center;
+		height: 190px;
+		font-size: 20px;
+		margin: 0 auto;
+	}
+	.hideimage{
+		display: none;
+	}
+
+
+	.reduce-padding{
+		padding: 2px;
+		padding-top: 8px;
+	}
+	.reduce-padding ul{
+		padding-left: 20px;
+	}
+	.align-center{
+		text-align: center;
+	}
+	.pagination-sm > li > a, .pagination-sm > li > span{
+		font-size: 14px;
+	}
+
+	
+	.font-adjustment{
+		font-family: Verdana, Helvetica, sans-serif;
+		font-size: 12px;
+	}
+}

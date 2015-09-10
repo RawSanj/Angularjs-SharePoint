@@ -17,8 +17,8 @@ app.controller('PageCtrl', ['$scope', '$http', 'filterFilter', function ($scope,
         $scope.myClass = "displayimage";
         var releaseName = "'" + $scope.releaseNames + "'";
     	$http.defaults.headers.common['Accept'] = 'application/json;odata=verbose';
-    	//$http.get('http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/CoreMembers').
-        $http.get("http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker?$filter=Release eq "+ releaseName).
+    	//$http.get('http://sharepoint3.xyzcompany.com/tm/_vti_bin/ListData.svc/CoreMembers').
+        $http.get("http://sharepoint3.xyzcompany.com/tm/_vti_bin/ListData.svc/IssueTracker?$filter=Release eq "+ releaseName).
             success(function(data) {
         	$scope.items = data.d.results;
         	$scope.myClass = "hideimage";
@@ -102,7 +102,7 @@ app.controller('PageCtrl', ['$scope', '$http', 'filterFilter', function ($scope,
             // pagination controls
             $scope.currentPage = 1;
             $scope.totalItems = $scope.items.length;
-            $scope.entryLimit = 50; // items per page
+            $scope.entryLimit = 20; // items per page
             $scope.noOfPages = Math.ceil($scope.totalItems / $scope.entryLimit);
 
             // $watch search to update pagination
@@ -117,9 +117,6 @@ app.controller('PageCtrl', ['$scope', '$http', 'filterFilter', function ($scope,
     	 });
 
     }, true);
-
-
-
 
 
 }]);

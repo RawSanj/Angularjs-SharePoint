@@ -1,0 +1,138 @@
+	.panel{
+		font-size: 12.5px;
+	}
+	.panel-heading{
+		font-size: 15px;
+	}
+	
+	.panel-success li a:hover {
+		 text-decoration: none;
+		 color: rgba(53, 126, 82, 1);
+		 font-weight: bold;
+	}
+	.panel-success li a{
+		 text-decoration: none;
+		 color: rgba(53, 126, 82, 1);
+		 
+	}
+	
+	.panel-success a{
+		 text-decoration: none;
+		 color: rgba(53, 126, 82, 1);
+		 /*font-size: 12px;*/
+		 
+	}	
+	.panel-success a:hover {
+		 text-decoration: none;
+		 color: rgba(53, 126, 82, 1);
+		 font-weight: bold;
+		 /*font-size: 12px;*/
+	}
+
+
+
+
+
+	.panel-danger li a:hover {
+		 text-decoration: none;
+		 color: #a94442;
+		 font-weight: bold;
+	}
+	.panel-danger li a{
+		 text-decoration: none;
+		 color: #a94442;
+		 
+	}
+	
+	.panel-danger a{
+		 text-decoration: none;
+		 color: #a94442;
+		 /*font-size: 12px;*/
+		 
+	}	
+	.panel-danger a:hover {
+		 text-decoration: none;
+		 color: #a94442;
+		 font-weight: bold;
+		 /*font-size: 12px;*/
+	}
+
+
+
+	.panel-warning li a:hover {
+		 text-decoration: none;
+		 color: #8a6d3b;
+		 font-weight: bold;
+	}
+	.panel-warning li a{
+		 text-decoration: none;
+		 color: #8a6d3b;
+		 
+	}
+	
+	.panel-warning a{
+		 text-decoration: none;
+		 color: #8a6d3b;
+		 /*font-size: 12px;*/
+		 
+	}	
+	.panel-warning a:hover {
+		 text-decoration: none;
+		 color: #8a6d3b;
+		 font-weight: bold;
+		 /*font-size: 12px;*/
+	}
+
+
+
+	.panel-info li a:hover {
+		 text-decoration: none;
+		 color: rgba(51, 122, 183, 1);
+		 font-weight: bold;
+	}
+	.panel-info li a{
+		 text-decoration: none;
+		 color: rgba(51, 122, 183, 1);
+		 
+	}
+	
+	.panel-info a{
+		 text-decoration: none;
+		 color: rgba(51, 122, 183, 1);
+		 /*font-size: 12px;*/
+		 
+	}	
+	.panel-info a:hover {
+		 text-decoration: none;
+		 color: rgba(51, 122, 183, 1);
+		 font-weight: bold;
+		 /*font-size: 12px;*/
+	}
+
+	li a:hover {
+		 text-decoration: none;
+		 color: rgba(53, 126, 82, 1);
+		 font-weight: bold;
+	}
+	li a{
+		 text-decoration: none;
+		 color: rgba(53, 126, 82, 1)
+		 
+	}
+
+
+	
+	a{
+		 text-decoration: none;
+		 color: rgba(255,0,0,0.8);
+		 
+	}	
+	a:hover {
+		 text-decoration: none;
+		 color: rgba(255,0,0,0.8);
+		 font-weight: bold;
+	}
+
+	.reduce-panel-padding{
+		padding-left: 0px;
+	}

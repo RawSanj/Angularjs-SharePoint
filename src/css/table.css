@@ -1,0 +1,102 @@
+	.displayimage{
+		display: block;
+		background-image: url("../images/loading.gif");
+		background-repeat: no-repeat;
+		background-position: center;
+		height: 190px;
+		font-size: 20px;
+		margin: 0 auto;
+	}
+	.hideimage{
+		display: none;
+	}
+	
+	.Pending{
+		background-color: rgba(216, 216, 216, 0.8) !important;
+		text-align: center;
+		border-color: rgba(0,0,0,0.9);
+		border-style: solid;
+		color: rgba(0,0,0,0.9);
+		border-radius: 3px;
+		border-width: 1px;
+		line-height: 40px;
+		height: 40px;
+		width: 80px;
+	}
+	.Critical{
+		background-color: rgba(255,199,206, 0.8) !important;
+		text-align: center;
+		border-color: rgba(156,0,6,0.9);
+		border-style: solid;
+		color: rgba(156,0,6,0.9);
+		border-radius: 3px;
+		border-width: 1px;
+		line-height: 40px;
+		height: 40px;
+		width: 80px;
+	}
+	.High{
+		background-color: rgba(255,204,153, 0.8) !important;
+		text-align: center;
+		border-color: rgba(228,109,10,0.9);
+		border-style: solid;
+		color: rgba(228,109,10,0.9);
+		border-radius: 3px;
+		border-width: 1px;
+		line-height: 40px;
+		height: 40px;
+		width: 80px;
+	}
+	.Medium{
+		background-color: rgba(198,239,206, 0.8); !important;
+		text-align: center;
+		border-color: rgba(0,97,0,0.9);
+		border-style: solid;
+		color: rgba(0,97,0,0.9);
+		border-radius: 3px;
+		border-width: 1px;
+		line-height: 40px;
+		height: 40px;
+		width: 80px;
+	}
+	.Low {
+		background-color: rgba(255,235,156, 0.9); !important;
+		text-align: center;
+		border-color: rgba(156,101,0,0.9);
+		border-style: solid;
+		color: rgba(156,101,0,0.9);
+		border-radius: 3px;
+		border-width: 1px;
+		line-height: 40px;
+		height: 40px;
+		width: 80px;
+	}
+	.NA {
+		background-color: rgba(173, 230, 240, 0.9) !important;
+		text-align: center;
+		border-color: rgba(54, 138, 221, 0.8);
+		border-style: solid;
+		color: rgba(54, 138, 221, 0.8);
+		border-radius: 3px;
+		border-width: 1px;
+		line-height: 40px;
+		height: 40px;
+		width: 80px;
+	}
+	.scroll-table {  
+		height: 630px !important;
+		overflow: scroll;
+		overflow-x: scroll;
+	}
+
+	/*table{
+	    border: 1px solid black;
+	    table-layout: fixed;
+	    width: 200px;
+	}
+
+	th, td {
+	    border: 1px solid black;
+	    overflow: hidden;
+	    width: 100px;
+	}*/
