@@ -3,166 +3,24 @@ ID - 641
   "d": {
     "results": [
       {
-        "__metadata": {
-          "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(641)",
-          "etag": "W/\"20\"",
-          "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-        },
-        "PostedOccurred": "/Date(1395231666000)/",
-        "Category": {
-          "__deferred": {
-            "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(641)/Category"
-          }
-        },
         "CategoryValue": "Issue",
-        "Subcategory": {
-          "__deferred": {
-            "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(641)/Subcategory"
-          }
-        },
         "SubcategoryValue": "Data",
         "Release": "Production Found",
         "RequestNumber": "IM25720566",
-        "Environment": {
-          "__deferred": {
-            "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(641)/Environment"
-          }
-        },
-        "ExistInProd": {
-          "__deferred": {
-            "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(641)/ExistInProd"
-          }
-        },
         "ExistInProdValue": "Yes",
         "ScriptNumber": "Not Applicable",
         "Title": "When searching for EARC components in SRM Design Console, Autosys Agent can't be found.",
         "Description": "When searching for EARC components in SRM Design Console, Autosys Agent can't be found.\nREQ000000042267\n\nProvide steps to reproduce the issue = Select GAP Server Request.  Enter search criteria which in this case \"CA WAAE – Work Load Automation – AutoSys Edition R11\" in \"Additonal Product Search Dialog\" box in the RA Options tab.\n      \nWhat is the expected result? = Expected result should return the product being search\n      \nWhat is the actual result? = No items are returned in the view\n\nCA WAAE – Work Load Automation – AutoSys Edition R11 has been in EARC for about 2 weeks and it should be in DLA as well.\n\nPlease see attachment for details.",
         "ExpectedResult": "See description.",
         "ActualResult": "See description.",
-        "Severity": {
-          "__deferred": {
-            "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(641)/Severity"
-          }
-        },
         "SeverityValue": "3-Medium",
-        "BusinessJustification": null,
-        "Comments": null,
-        "AssignedToGroup": {
-          "__deferred": {
-            "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(641)/AssignedToGroup"
-          }
-        },
-        "AssignedToGroupValue": "Developer",
-        "AssignedTo": {
-          "__deferred": {
-            "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(641)/AssignedTo"
-          }
-        },
-        "AssignedToId": 69,
-        "TestStatus": {
-          "__deferred": {
-            "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(641)/TestStatus"
-          }
-        },
         "TestStatusValue": "Failed",
-        "Status": {
-          "__deferred": {
-            "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(641)/Status"
-          }
-        },
         "StatusValue": "Open",
-        "ContactName": {
-          "__deferred": {
-            "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(641)/ContactName"
-          }
-        },
-        "ContactNameId": 375,
-        "ContactPhone": "617-434-6116",
-        "ContactEmail": "steven.mccormick@bankofamerica.com",
-        "DateClosed": null,
-        "RootCause": {
-          "__deferred": {
-            "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(641)/RootCause"
-          }
-        },
         "RootCauseValue": null,
-        "CloseActionTaken": {
-          "__deferred": {
-            "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(641)/CloseActionTaken"
-          }
-        },
-        "CloseActionTakenValue": null,
-        "Qanbkid": "nbkfm7v",
-        "Banbkid": "nbke35a",
-        "PreviousApplication": null,
-        "PreviousAssignee": "CORP\nbkmt09",
         "ListItemID": "641",
-        "PreviousStatus": "Open",
-        "Status2": "Open",
-        "CloseToStory": null,
-        "JStatus": null,
-        "Status3": "641: Open 3-Medium",
-        "Group": {
-          "__deferred": {
-            "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(641)/Group"
-          }
-        },
-        "GroupValue": null,
-        "ContentTypeID": "0x010300D8EC0CAC00042346AE8FF4E1E3506D35",
-        "IssueTrackerWorkflow": null,
         "Id": 641,
-        "Modified": "/Date(1398339077000)/",
-        "Created": "/Date(1395232413000)/",
-        "CreatedBy": {
-          "__deferred": {
-            "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(641)/CreatedBy"
-          }
-        },
-        "CreatedById": 107,
-        "ModifiedBy": {
-          "__deferred": {
-            "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(641)/ModifiedBy"
-          }
-        },
-        "ModifiedById": 27,
-        "Owshiddenversion": 20,
-        "Version": "20.0",
-        "Attachments": {
-          "__deferred": {
-            "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(641)/Attachments"
-          }
-        },
-        "Current": true,
-        "Path": "/sites/qualitymgmt/tm/Lists/IssueTracker",
-        "c__showSevDef": false,
-        "IssueTrackerNotifications": null,
-        "PreviousComponent": "DLA Design Console",
-        "Component": {
-          "__deferred": {
-            "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(641)/Component"
-          }
-        },
         "ComponentValue": "DLA Design Console",
-        "RelatedStory": "Not Applicable",
-        "SortOrder1": 0,
-        "LinkToScript": null,
-        "LinkToStory": null,
-        "UserRegion": null,
-        "EnvPromotedTo": null,
-        "TrainingImpact": {
-          "__deferred": {
-            "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(641)/TrainingImpact"
-          }
-        },
-        "TrainingImpactValue": null,
-        "ScriptType": null,
-        "YTD": "2014",
-        "QAResponsible": null,
-        "Developer": null,
-        "DevOwner": null,
-        "ArchiveIssues": null,
-        "Dummy": null,
-        "ExpirationDate": null
+        "RelatedStory": "Not Applicable"
       }
     ]
   }
@@ -175,166 +33,24 @@ ID - 4567
   "d": {
     "results": [
       {
-        "__metadata": {
-          "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(4567)",
-          "etag": "W/\"15\"",
-          "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-        },
-        "PostedOccurred": "/Date(1430697600000)/",
-        "Category": {
-          "__deferred": {
-            "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(4567)/Category"
-          }
-        },
         "CategoryValue": "Issue",
-        "Subcategory": {
-          "__deferred": {
-            "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(4567)/Subcategory"
-          }
-        },
         "SubcategoryValue": "Tool",
         "Release": "Remedy Release 3.0",
         "RequestNumber": "KBA00004908",
-        "Environment": {
-          "__deferred": {
-            "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(4567)/Environment"
-          }
-        },
-        "ExistInProd": {
-          "__deferred": {
-            "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(4567)/ExistInProd"
-          }
-        },
         "ExistInProdValue": "No",
         "ScriptNumber": "E2E Knowledge Management_1",
         "Title": "IE11 : Unable to search a KM article via Search Console.",
         "Description": "STEPS TO REPRODUCE:\n1. Login to ITSM Application as Knowledge Management Operator.\n2. Click on Applications tab >> Knowledge Management >> Knowledge Management Console.\n3. Create:\n4. Select Create and what type of article you want to create. The options are:\n\n1.How to\n\n2.Known Error\n\n3.Problem Solution\n\n4.Reference\n\n5.Decision Tree\n5. Click the Template drop down arrow to display a list of the available templates.\n6. Select the How To template and click the Create button.\n7. Enter a Title using the following standard:Template Type: Summary Description Examples: How To: Launch eSupport For Prod Cert you would use something like - How To: Release 1.4 Production Cert Test - DO NOT USE\n8. Complete the fields displayed in the Content tab. Note the Article ID\n9. Click the Save button.\n10. Select the Article Visibility Function\n11. Select BANK OF AMERICA from the Company drop down list and ALL from the Visibility Group drop down list. Click the Add button.\n12. Click Save\n13. Click OK\n14. Click Close\n15. Click the Details tab.\n16. In the first details group box, click the Company*+ drop down arrow and select BANK OF AMERICA.\n17. In the Company group box, note the value in the Author field.\n18. In the Company group box Keywords field, enter the Keyword of Knowledge and any additional words as desired.  Note:  this will be used to search for the article.\n19. Select language from the article language field\n20. Mark if the article is for Internal or External from Internal Use field.\n\nDefinition: Yes ---> Internal - specific permission to the KM capability NOTE: Select Yes for Prod Cert\nDefinition: No ---> External - any user who accesses Remedy no specific permissions - Self Serve\n21. Review the values in the 'Assigned Group', 'Assignee' and 'Status' fields.\n22. Click the Add button in the “Article Attachments” section to add attachments\n23. Click the Browse button to select and attachment. Repeat this process multiple times in order to select multiple attachments.\n24. Click the OK button from the Add attachment popup\n25. Select the Date/System sub-tab\n26. Review the read only fields: Submitter, Submit Date, Last Modified By, Modified Date, Article Form and Source Name\n27. Review the Article Owner fields.\n28. Click the Calendar icon next to the Article Expiration Date field.Note: The default is 1/17/2038 4:00:00 PM\n29. Select a expiration date and time. Click OK\n30. Click the Categorization Tab\n31. Fill in: (optional) 1.Organization and Department\n\n2.Operational categorization\n\n3.Product categorization\n32. From the Details tab, select Status equal Draft and Click Save.\n33. Click Draft in the Status menu bar and select SME Review\n34. Select the Assignee Group and Assignee and/or to the SME name\n35. Make edits wherever necessary/applicable and select save.\n36. If additional SME Reviews are needed repeat steps 13-14 until all SME Reviews are completed.\n37. Select Status equal Publish Approval and Click Save\n38. Fast Track Create:\n39. Click Create and select the Known Error template\n40. Enter a Title using the following standard:Template Type: Summary Description Examples: Knows Error: E2E Testing For Prod Cert you would use something like - Known Error: Release 1.4 Production Cert Test - DO NOT USE\n41. Complete the fields on the Content tab and click Save. Note the Article ID.\n42. Select the Article Visibility Function\n43. Select BANK OF AMERICA from the Company drop down list and ALL from the Visibility Group drop down list. Click the Add button.\n44. Click Save\n45. Click OK\n46. Click Close\n47. Click the Details tab and Select Company categorization\n48. Mark if the article is for Internal or External from Internal Use field.\nDefinition: Yes ---> Internal - specific permission to the KM capability NOTE: Select Yes for Prod Cert\nDefinition: No ---> External - any user who accesses Remedy no specific permissions - Self Serve\n49. Include attachments.Go to “Article Attachments” section under “details” tab to add attachments\n50. Select a value from owner group and select a member of the group.\n51. Go to Date/System tab and Enter the knowledge article Expiration date that is one month out. Note the value entered as you will need it for the retirement test steps below.(a maximum of 3 days from creation)Note: The default is 1/17/2038 4:00:00 PM\n52. Click the Categorization Tab\n53. Fill in: (optional) 1.Organization and Department\n\n2.Operational categorization\n\n3.Product categorization\n54. From the Details tab, select Status equal Draft and Click Save.\n55. Select Status equal Publish Approval and Click Save\n56. Logout\n57. Approve and Reject:\n58. Login to ITSM as KM Approver.\n59. Navigate to Approval Console by clicking on Applications > Quick Links > Approval Central.\n60. Verify that KM How to and Known Error articles created in the steps above are displayed in the Pending Approvals section.\n61. Select the How To Knowledge Article by clicking the \"Request ID\" Request Details pane to view the article.\n62. Click \"Advanced View\" at the bottom of the screen.\n63. Click either \"Authoring Notes\" or \"History\" and then ensure the Knowledge Article is complete in accordance with the above steps\n64. Click Close button on the article.\n65. Approve the How To KM article.\n66. Verify that Known Error KM article created in the steps above is displayed in the Pending Approvals section.\n67. Select the Known Errors Knowledge Article by clicking the \"Request ID\" Request Details pane to view the article.\n68. Click \"Advanced View\" at the bottom of the screen.\n69. Click either \"Authoring Notes\" or \"History\" and then ensure the Knowledge Article is complete in accordance with the steps above.\n70. Click Close button on the article.\n71. Click the Reject button to reject the Known Error article.\n72. Populate the Reject Justification text and click OK.\n73. Search Article:\n74. Navigate to Search Knowledge Console by clicking on Applications > Knowledge Management> Search Knowledge.\n75. In the Search field, enter the Known Error article ID that was rejected in the above steps. Note the Assignee and Assigned Group values as they will be needed for the Cancel steps below. The Assigned group should be defined as Approvers.\n76. In the Search field, enter the How To KM article ID which was approved in the above steps. Note the Assignee and Assigned Group values as they will be needed for the retirement steps below. The Assigned group should be defined as Approvers.",
         "ExpectedResult": "KM article displays. Status of the article is Published.",
         "ActualResult": "KM article is not displayed.",
-        "Severity": {
-          "__deferred": {
-            "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(4567)/Severity"
-          }
-        },
         "SeverityValue": "2-High",
-        "BusinessJustification": null,
-        "Comments": null,
-        "AssignedToGroup": {
-          "__deferred": {
-            "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(4567)/AssignedToGroup"
-          }
-        },
-        "AssignedToGroupValue": "User",
-        "AssignedTo": {
-          "__deferred": {
-            "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(4567)/AssignedTo"
-          }
-        },
-        "AssignedToId": 43,
-        "TestStatus": {
-          "__deferred": {
-            "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(4567)/TestStatus"
-          }
-        },
         "TestStatusValue": "Passed",
-        "Status": {
-          "__deferred": {
-            "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(4567)/Status"
-          }
-        },
         "StatusValue": "Closed",
-        "ContactName": {
-          "__deferred": {
-            "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(4567)/ContactName"
-          }
-        },
-        "ContactNameId": 43,
-        "ContactPhone": "91-9819193645",
-        "ContactEmail": "shanil.shah@bankofamerica.com",
-        "DateClosed": "/Date(1431004155000)/",
-        "RootCause": {
-          "__deferred": {
-            "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(4567)/RootCause"
-          }
-        },
         "RootCauseValue": "Environmental",
-        "CloseActionTaken": {
-          "__deferred": {
-            "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(4567)/CloseActionTaken"
-          }
-        },
-        "CloseActionTakenValue": "Issue Resolved with Fix",
-        "Qanbkid": "nbkqfkl",
-        "Banbkid": "nbtp5h7",
-        "PreviousApplication": null,
-        "PreviousAssignee": "ASIA\nbkemqq",
         "ListItemID": "4567",
-        "PreviousStatus": "Closed",
-        "Status2": "Closed",
-        "CloseToStory": null,
-        "JStatus": null,
-        "Status3": "4567: Closed 2-High",
-        "Group": {
-          "__deferred": {
-            "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(4567)/Group"
-          }
-        },
-        "GroupValue": null,
-        "ContentTypeID": "0x010300D8EC0CAC00042346AE8FF4E1E3506D35",
-        "IssueTrackerWorkflow": null,
         "Id": 4567,
-        "Modified": "/Date(1431004188000)/",
-        "Created": "/Date(1430738738000)/",
-        "CreatedBy": {
-          "__deferred": {
-            "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(4567)/CreatedBy"
-          }
-        },
-        "CreatedById": 43,
-        "ModifiedBy": {
-          "__deferred": {
-            "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(4567)/ModifiedBy"
-          }
-        },
-        "ModifiedById": 26,
-        "Owshiddenversion": 15,
-        "Version": "15.0",
-        "Attachments": {
-          "__deferred": {
-            "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(4567)/Attachments"
-          }
-        },
-        "Current": true,
-        "Path": "/sites/qualitymgmt/tm/Lists/IssueTracker",
-        "c__showSevDef": false,
-        "IssueTrackerNotifications": null,
-        "PreviousComponent": "Knowledge Management",
-        "Component": {
-          "__deferred": {
-            "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(4567)/Component"
-          }
-        },
         "ComponentValue": "Knowledge Management",
-        "RelatedStory": "E2E Knowledge Management",
-        "SortOrder1": 0,
-        "LinkToScript": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/tai/2015-05-04%20E2E%20CHECKOUT%20FOR%20RELEASE%203.0%20IE11%20IN%20SIT1/QA/IPQRNE2E%20Knowledge%20Management1660.xml, Script Link",
-        "LinkToStory": "http://ent05-jira.bankofamerica.com:8085/browse/, Jira Link",
-        "UserRegion": null,
-        "EnvPromotedTo": null,
-        "TrainingImpact": {
-          "__deferred": {
-            "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(4567)/TrainingImpact"
-          }
-        },
-        "TrainingImpactValue": "No",
-        "ScriptType": "manual",
-        "YTD": "2015",
-        "QAResponsible": null,
-        "Developer": null,
-        "DevOwner": null,
-        "ArchiveIssues": null,
-        "Dummy": null,
-        "ExpirationDate": null
+        "RelatedStory": "E2E Knowledge Management"
       }
     ]
   }
@@ -345,166 +61,24 @@ ID - 1234
   "d": {
     "results": [
       {
-        "__metadata": {
-          "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(1234)",
-          "etag": "W/\"12\"",
-          "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-        },
-        "PostedOccurred": "/Date(1404518400000)/",
-        "Category": {
-          "__deferred": {
-            "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(1234)/Category"
-          }
-        },
         "CategoryValue": "Feedback",
-        "Subcategory": {
-          "__deferred": {
-            "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(1234)/Subcategory"
-          }
-        },
         "SubcategoryValue": "Enhancement",
         "Release": "Remedy Release 1.2",
         "RequestNumber": null,
-        "Environment": {
-          "__deferred": {
-            "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(1234)/Environment"
-          }
-        },
-        "ExistInProd": {
-          "__deferred": {
-            "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(1234)/ExistInProd"
-          }
-        },
         "ExistInProdValue": "No",
         "ScriptNumber": "SMORE-13016_1",
         "Title": "Need type ahead capability in the Company Cost field on Cost Form",
         "Description": "Prerequisites: Incident User must have Cost Manager Permission.\n\n1. Login to ITSM Application as an Incident User.\n2. Click on Applications tab-->Incident Management-->Incident Management Console.\n3. Click on the 'New Incident' link under Functions menu.\n4. Select a 'Support Group' that the Incident User is a member of in the Assigned Group field.\n5. Complete all additional required fields and save.Note: Make a note of the Incident ticket#.\n6. Click on Incident Console Link & Click on Search Incident.\n7. Enter the Incident ticket number as noted above in the Incident ID field & Click on Search button.\n8. Click on Relationship tab, Verify that Priority Column is present. \nIf not, then click on Preferences -> Add Column -> click on Priority.\n9. Select 'Incident' from Search dropdown in Create Relationship section and then click on Search icon.\n10. Click on Use Advanced Search.\n11. Select Status=Assigned and any Priority value.\nClick on Search.\n \nNote: Make a note of selected priority value.\n12. Select any Incident and Click on Relate.\n13. Click Ok.\n14. Select 'Configuration Item' from Search dropdown in Create Relationship section and then click on Search icon.\n15. Click on Use Advanced Search.\n16. Paste below text in Advanced Search textbox :\n'301172600'  !=  $\NULL$\n \n                                 OR\nClick on Advanced Search, Select Priority from Fields dropdown, click on != (Not equal to sys), select NULL from Keywords and Click on Select.\n17. Click on Search.\n18. Select any one CI and click on Relate.\n19. Click Ok.\n20. Select 'CI Unavailability' from Search dropdown in Create Relationship section and then click on Search icon.\n21. Click on Use Advanced Search.\n22. Click on All Unavailability and click on Search.\n23. Click on Relate.\n24. Click Ok.\n25. Click Ok.\n26. Select 'Problem Investigation' from Search dropdown in Create Relationship section and then click on Search icon.\n27. Click on Use Advanced Search.\n28. Select Status=Assigned and any Priority value.\nClick on Search.\nMake a note of selected priority value.\n29. Select any Problem and Click on Relate.\n30. Click Ok.\n31. Repeat Steps 26 to 30 for the following Request type:\n\n\nInfrastructure Change\n\nKnown Error\n\nRelease\n\nSolution Database\n\nWork Order\n32. Select the 'CI Unavailability' record & click on 'View Relationship' button.\n33. Click on Financials tab & click on 'Add' button\n34. Select any value from 'Company Code' dropdown.\n",
         "ExpectedResult": "The value is populated in the field.",
         "ActualResult": "Need type ahead capability",
-        "Severity": {
-          "__deferred": {
-            "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(1234)/Severity"
-          }
-        },
         "SeverityValue": "2-High",
-        "BusinessJustification": "If users are expected to scroll through 2,000 items users will opt to select from the first screen of 29 versus scrolling to end to select correct code. This will result in data quality errors and inaccuracy in reporting impact by Legal Entity.",
-        "Comments": null,
-        "AssignedToGroup": {
-          "__deferred": {
-            "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(1234)/AssignedToGroup"
-          }
-        },
-        "AssignedToGroupValue": "User",
-        "AssignedTo": {
-          "__deferred": {
-            "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(1234)/AssignedTo"
-          }
-        },
-        "AssignedToId": 113,
-        "TestStatus": {
-          "__deferred": {
-            "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(1234)/TestStatus"
-          }
-        },
         "TestStatusValue": "Not Applicable",
-        "Status": {
-          "__deferred": {
-            "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(1234)/Status"
-          }
-        },
         "StatusValue": "Closed",
-        "ContactName": {
-          "__deferred": {
-            "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(1234)/ContactName"
-          }
-        },
-        "ContactNameId": 113,
-        "ContactPhone": "980-388-3762",
-        "ContactEmail": "lanette.harbison@bankofamerica.com",
-        "DateClosed": "/Date(1425908547000)/",
-        "RootCause": {
-          "__deferred": {
-            "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(1234)/RootCause"
-          }
-        },
         "RootCauseValue": "New Feature",
-        "CloseActionTaken": {
-          "__deferred": {
-            "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(1234)/CloseActionTaken"
-          }
-        },
-        "CloseActionTakenValue": "Responded to Issue Item",
-        "Qanbkid": "nbks2fm",
-        "Banbkid": "nbk73l7",
-        "PreviousApplication": null,
-        "PreviousAssignee": "CORP\nbk1lc7",
         "ListItemID": "1234",
-        "PreviousStatus": "Closed",
-        "Status2": "Closed",
-        "CloseToStory": "SMORE-13324",
-        "JStatus": null,
-        "Status3": "1234: Closed 2-High",
-        "Group": {
-          "__deferred": {
-            "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(1234)/Group"
-          }
-        },
-        "GroupValue": null,
-        "ContentTypeID": "0x010300D8EC0CAC00042346AE8FF4E1E3506D35",
-        "IssueTrackerWorkflow": null,
         "Id": 1234,
-        "Modified": "/Date(1425927590000)/",
-        "Created": "/Date(1404549482000)/",
-        "CreatedBy": {
-          "__deferred": {
-            "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(1234)/CreatedBy"
-          }
-        },
-        "CreatedById": 113,
-        "ModifiedBy": {
-          "__deferred": {
-            "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(1234)/ModifiedBy"
-          }
-        },
-        "ModifiedById": 49,
-        "Owshiddenversion": 12,
-        "Version": "12.0",
-        "Attachments": {
-          "__deferred": {
-            "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(1234)/Attachments"
-          }
-        },
-        "Current": true,
-        "Path": "/sites/qualitymgmt/tm/Lists/IssueTracker",
-        "c__showSevDef": false,
-        "IssueTrackerNotifications": null,
-        "PreviousComponent": "Incident Management",
-        "Component": {
-          "__deferred": {
-            "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(1234)/Component"
-          }
-        },
         "ComponentValue": "Incident Management",
-        "RelatedStory": "SMORE-13016",
-        "SortOrder1": 0,
-        "LinkToScript": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/tai/Remedy%20Release%201.2/User/TSUSMORE-130162029.xml, Script Link",
-        "LinkToStory": "http://ent05-jira.bankofamerica.com:8085/browse/SMORE-13016, Story Link",
-        "UserRegion": null,
-        "EnvPromotedTo": null,
-        "TrainingImpact": {
-          "__deferred": {
-            "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(1234)/TrainingImpact"
-          }
-        },
-        "TrainingImpactValue": null,
-        "ScriptType": null,
-        "YTD": "2014",
-        "QAResponsible": null,
-        "Developer": null,
-        "DevOwner": null,
-        "ArchiveIssues": null,
-        "Dummy": null,
-        "ExpirationDate": null
+        "RelatedStory": "SMORE-13016"
       }
     ]
   }
