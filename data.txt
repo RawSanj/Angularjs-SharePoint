@@ -1,0 +1,1027 @@
+//Active Issues data -
+{
+  "d": [
+    {
+      "__metadata": {
+        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(641)",
+        "etag": "W/\"20\"",
+        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
+      },
+      "Release": "Production Found",
+      "ExistInProdValue": "Yes",
+      "Title": "When searching for EARC components in SRM Design Console, Autosys Agent can't be found.",
+      "SeverityValue": "3-Medium",
+      "TestStatusValue": "Failed",
+      "StatusValue": "Open",
+      "RootCauseValue": null,
+      "Id": 641,
+      "ComponentValue": "DLA Design Console",
+      "RelatedStory": "Not Applicable"
+    },
+    {
+      "__metadata": {
+        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(787)",
+        "etag": "W/\"16\"",
+        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
+      },
+      "Release": "Production Found",
+      "ExistInProdValue": "Yes",
+      "Title": "Design Console data issue",
+      "SeverityValue": "3-Medium",
+      "TestStatusValue": "Failed",
+      "StatusValue": "Open",
+      "RootCauseValue": "New Feature",
+      "Id": 787,
+      "ComponentValue": "DLA Design Console",
+      "RelatedStory": "Not Applicable"
+    },
+    {
+      "__metadata": {
+        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(866)",
+        "etag": "W/\"3\"",
+        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
+      },
+      "Release": "Production Found",
+      "ExistInProdValue": "Yes",
+      "Title": "Getting Maximo error for Server/Storage decoms",
+      "SeverityValue": "3-Medium",
+      "TestStatusValue": "Failed",
+      "StatusValue": "New",
+      "RootCauseValue": null,
+      "Id": 866,
+      "ComponentValue": "Interfaces",
+      "RelatedStory": "Not Applicable"
+    },
+    {
+      "__metadata": {
+        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(1074)",
+        "etag": "W/\"9\"",
+        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
+      },
+      "Release": "Production Found",
+      "ExistInProdValue": "Yes",
+      "Title": "Incorrect Service Levels reported in SR Detail report.",
+      "SeverityValue": "3-Medium",
+      "TestStatusValue": "Failed",
+      "StatusValue": "Open",
+      "RootCauseValue": null,
+      "Id": 1074,
+      "ComponentValue": "Reporting",
+      "RelatedStory": "Not Applicable"
+    },
+    {
+      "__metadata": {
+        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(1168)",
+        "etag": "W/\"18\"",
+        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
+      },
+      "Release": "Production Found",
+      "ExistInProdValue": "Yes",
+      "Title": "For same server DLA Request, there are two work items generated",
+      "SeverityValue": "0-Pending",
+      "TestStatusValue": "Pending",
+      "StatusValue": "In Review",
+      "RootCauseValue": null,
+      "Id": 1168,
+      "ComponentValue": "DLA Design Console",
+      "RelatedStory": "Not Applicable"
+    },
+    {
+      "__metadata": {
+        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(1427)",
+        "etag": "W/\"11\"",
+        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
+      },
+      "Release": "Production Found",
+      "ExistInProdValue": "Yes",
+      "Title": "Maximo/Biztalk sends multiple messages to IPCenter for same txn",
+      "SeverityValue": "3-Medium",
+      "TestStatusValue": "Failed",
+      "StatusValue": "Open",
+      "RootCauseValue": null,
+      "Id": 1427,
+      "ComponentValue": "Interfaces",
+      "RelatedStory": "Not Applicable"
+    },
+    {
+      "__metadata": {
+        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(1521)",
+        "etag": "W/\"7\"",
+        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
+      },
+      "Release": "Production Found",
+      "ExistInProdValue": "Yes",
+      "Title": "CEW Reporting drops product lines",
+      "SeverityValue": "2-High",
+      "TestStatusValue": "Failed",
+      "StatusValue": "Open",
+      "RootCauseValue": null,
+      "Id": 1521,
+      "ComponentValue": "Reporting",
+      "RelatedStory": "Not Applicable"
+    },
+    {
+      "__metadata": {
+        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(1722)",
+        "etag": "W/\"95\"",
+        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
+      },
+      "Release": "Production Found",
+      "ExistInProdValue": "Yes",
+      "Title": "AI job for AD OUs failing because of retired servers",
+      "SeverityValue": "2-High",
+      "TestStatusValue": "Failed",
+      "StatusValue": "Open",
+      "RootCauseValue": null,
+      "Id": 1722,
+      "ComponentValue": "Interfaces",
+      "RelatedStory": "Not Applicable"
+    },
+    {
+      "__metadata": {
+        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(1746)",
+        "etag": "W/\"9\"",
+        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
+      },
+      "Release": "Production Found",
+      "ExistInProdValue": "Yes",
+      "Title": " MAXIMO - Requests need to be closed (forc-closed).",
+      "SeverityValue": "3-Medium",
+      "TestStatusValue": "Failed",
+      "StatusValue": "Open",
+      "RootCauseValue": null,
+      "Id": 1746,
+      "ComponentValue": "Service Request Fulfillment",
+      "RelatedStory": "Not Applicable"
+    },
+    {
+      "__metadata": {
+        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(1751)",
+        "etag": "W/\"7\"",
+        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
+      },
+      "Release": "Production Found",
+      "ExistInProdValue": "Yes",
+      "Title": "Maximo- Request Mgmt:  Unable to retain date change.",
+      "SeverityValue": "3-Medium",
+      "TestStatusValue": "Failed",
+      "StatusValue": "Open",
+      "RootCauseValue": null,
+      "Id": 1751,
+      "ComponentValue": "Service Request Fulfillment",
+      "RelatedStory": "Not Applicable"
+    },
+    {
+      "__metadata": {
+        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(1756)",
+        "etag": "W/\"5\"",
+        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
+      },
+      "Release": "Production Found",
+      "ExistInProdValue": "Yes",
+      "Title": "hk.apac.america.com.com DNS domain missing.",
+      "SeverityValue": "3-Medium",
+      "TestStatusValue": "Failed",
+      "StatusValue": "Open",
+      "RootCauseValue": null,
+      "Id": 1756,
+      "ComponentValue": "DLA Design Console",
+      "RelatedStory": "Not Applicable"
+    },
+    {
+      "__metadata": {
+        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(1889)",
+        "etag": "W/\"5\"",
+        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
+      },
+      "Release": "Production Found",
+      "ExistInProdValue": "Yes",
+      "Title": "Missing Service Request 81256 from the IT Console.",
+      "SeverityValue": "2-High",
+      "TestStatusValue": "Not Applicable",
+      "StatusValue": "Open",
+      "RootCauseValue": null,
+      "Id": 1889,
+      "ComponentValue": "DLA IT Console",
+      "RelatedStory": "Not Applicable"
+    },
+    {
+      "__metadata": {
+        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(1924)",
+        "etag": "W/\"23\"",
+        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
+      },
+      "Release": "Production Found",
+      "ExistInProdValue": "Yes",
+      "Title": "REM>MXO incidents won't go to CLOSED because dispatches are in COMP status",
+      "SeverityValue": "4-Low",
+      "TestStatusValue": "Failed",
+      "StatusValue": "Open",
+      "RootCauseValue": null,
+      "Id": 1924,
+      "ComponentValue": "Interfaces",
+      "RelatedStory": "Not Applicable"
+    },
+    {
+      "__metadata": {
+        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(1927)",
+        "etag": "W/\"5\"",
+        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
+      },
+      "Release": "Production Found",
+      "ExistInProdValue": "Yes",
+      "Title": "Old Service Requests in the IT Console that should have been closed.",
+      "SeverityValue": "3-Medium",
+      "TestStatusValue": "Failed",
+      "StatusValue": "Open",
+      "RootCauseValue": null,
+      "Id": 1927,
+      "ComponentValue": "DLA IT Console",
+      "RelatedStory": "Not Applicable"
+    },
+    {
+      "__metadata": {
+        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(1980)",
+        "etag": "W/\"7\"",
+        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
+      },
+      "Release": "Production Found",
+      "ExistInProdValue": "Yes",
+      "Title": "eSmart report quantities inaccurate for server decom's when multiple hostnames provided",
+      "SeverityValue": "3-Medium",
+      "TestStatusValue": "Failed",
+      "StatusValue": "Open",
+      "RootCauseValue": null,
+      "Id": 1980,
+      "ComponentValue": "Reporting",
+      "RelatedStory": "Not Applicable"
+    },
+    {
+      "__metadata": {
+        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(2000)",
+        "etag": "W/\"5\"",
+        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
+      },
+      "Release": "Production Found",
+      "ExistInProdValue": "Yes",
+      "Title": "IIS services not discovered in SRM decom requests",
+      "SeverityValue": "4-Low",
+      "TestStatusValue": "Failed",
+      "StatusValue": "Open",
+      "RootCauseValue": null,
+      "Id": 2000,
+      "ComponentValue": "DLA Decom",
+      "RelatedStory": "Not Applicable"
+    },
+    {
+      "__metadata": {
+        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(2014)",
+        "etag": "W/\"13\"",
+        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
+      },
+      "Release": "Production Found",
+      "ExistInProdValue": "Yes",
+      "Title": "Cannot find requests in IT Home Global Search",
+      "SeverityValue": "3-Medium",
+      "TestStatusValue": "Failed",
+      "StatusValue": "Open",
+      "RootCauseValue": null,
+      "Id": 2014,
+      "ComponentValue": "DLA Decom",
+      "RelatedStory": "Not Applicable"
+    },
+    {
+      "__metadata": {
+        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(2028)",
+        "etag": "W/\"15\"",
+        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
+      },
+      "Release": "Production Found",
+      "ExistInProdValue": "Yes",
+      "Title": "Workorder fields are blank or missing to some fulfillment users",
+      "SeverityValue": "0-Pending",
+      "TestStatusValue": "Failed",
+      "StatusValue": "Open",
+      "RootCauseValue": null,
+      "Id": 2028,
+      "ComponentValue": "Service Request Fulfillment",
+      "RelatedStory": "Not Applicable"
+    },
+    {
+      "__metadata": {
+        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(2047)",
+        "etag": "W/\"9\"",
+        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
+      },
+      "Release": "Production Found",
+      "ExistInProdValue": "Yes",
+      "Title": "System does not detect active storage on LKCMA0EA",
+      "SeverityValue": "3-Medium",
+      "TestStatusValue": "Failed",
+      "StatusValue": "Open",
+      "RootCauseValue": null,
+      "Id": 2047,
+      "ComponentValue": "DLA Decom",
+      "RelatedStory": "Not Applicable"
+    },
+    {
+      "__metadata": {
+        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(2058)",
+        "etag": "W/\"3\"",
+        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
+      },
+      "Release": "Production Found",
+      "ExistInProdValue": "Yes",
+      "Title": "Application Messaging Removal Work Orders are being routed to a Middleware support team",
+      "SeverityValue": "3-Medium",
+      "TestStatusValue": "Failed",
+      "StatusValue": "New",
+      "RootCauseValue": null,
+      "Id": 2058,
+      "ComponentValue": "DLA - SRM",
+      "RelatedStory": "Not Applicable"
+    },
+    {
+      "__metadata": {
+        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(2073)",
+        "etag": "W/\"11\"",
+        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
+      },
+      "Release": "Production Found",
+      "ExistInProdValue": "Yes",
+      "Title": "The link of the associated work orders which are relate to a another work order is not working. ",
+      "SeverityValue": "3-Medium",
+      "TestStatusValue": "Failed",
+      "StatusValue": "Open",
+      "RootCauseValue": null,
+      "Id": 2073,
+      "ComponentValue": "DLA IT Console",
+      "RelatedStory": "Not Applicable"
+    },
+    {
+      "__metadata": {
+        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(2079)",
+        "etag": "W/\"9\"",
+        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
+      },
+      "Release": "Production Found",
+      "ExistInProdValue": "Yes",
+      "Title": "Multiple approvals assigned to same manager for one request",
+      "SeverityValue": "3-Medium",
+      "TestStatusValue": "Failed",
+      "StatusValue": "Open",
+      "RootCauseValue": null,
+      "Id": 2079,
+      "ComponentValue": "DLA Decom",
+      "RelatedStory": "Not Applicable"
+    },
+    {
+      "__metadata": {
+        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(2109)",
+        "etag": "W/\"3\"",
+        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
+      },
+      "Release": "Production Found",
+      "ExistInProdValue": "Yes",
+      "Title": "User added a CI TAPMLB10VA host name,0014053 serial number to maximo on 10/23 however it's still not available in ITSM nor in RTT",
+      "SeverityValue": "3-Medium",
+      "TestStatusValue": "Failed",
+      "StatusValue": "New",
+      "RootCauseValue": null,
+      "Id": 2109,
+      "ComponentValue": "DLA - SRM",
+      "RelatedStory": "Not Applicable"
+    },
+    {
+      "__metadata": {
+        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(2297)",
+        "etag": "W/\"17\"",
+        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
+      },
+      "Release": "Production Found",
+      "ExistInProdValue": "Yes",
+      "Title": "DLA Server Decom - Duplicate Server name with different serial numbers.",
+      "SeverityValue": "3-Medium",
+      "TestStatusValue": "Failed",
+      "StatusValue": "Open",
+      "RootCauseValue": null,
+      "Id": 2297,
+      "ComponentValue": "DLA Decom",
+      "RelatedStory": "Not Applicable"
+    },
+    {
+      "__metadata": {
+        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(3067)",
+        "etag": "W/\"5\"",
+        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
+      },
+      "Release": "Production Found",
+      "ExistInProdValue": "Yes",
+      "Title": "Request  NOT at Mgr Approval Queue and Not to me the Delegate - Request REQ000000129524 ",
+      "SeverityValue": "0-Pending",
+      "TestStatusValue": "Failed",
+      "StatusValue": "Open",
+      "RootCauseValue": null,
+      "Id": 3067,
+      "ComponentValue": "Service Request Fulfillment",
+      "RelatedStory": "Not Applicable"
+    },
+    {
+      "__metadata": {
+        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(3112)",
+        "etag": "W/\"13\"",
+        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
+      },
+      "Release": "Production Found",
+      "ExistInProdValue": "Yes",
+      "Title": "Re-Opened Network Request is placed into a Server queue",
+      "SeverityValue": "0-Pending",
+      "TestStatusValue": "Pending",
+      "StatusValue": "In Progress",
+      "RootCauseValue": null,
+      "Id": 3112,
+      "ComponentValue": "Service Request Fulfillment",
+      "RelatedStory": "Not Applicable"
+    },
+    {
+      "__metadata": {
+        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(3160)",
+        "etag": "W/\"5\"",
+        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
+      },
+      "Release": "Production Found",
+      "ExistInProdValue": "Yes",
+      "Title": "Database work order not created for Decom DB server",
+      "SeverityValue": "3-Medium",
+      "TestStatusValue": "Failed",
+      "StatusValue": "Open",
+      "RootCauseValue": null,
+      "Id": 3160,
+      "ComponentValue": "DLA Decom",
+      "RelatedStory": "Not Applicable"
+    },
+    {
+      "__metadata": {
+        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(3163)",
+        "etag": "W/\"15\"",
+        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
+      },
+      "Release": "Production Found",
+      "ExistInProdValue": "Yes",
+      "Title": "Auto Cancellation NOT automatic set to YES on Service Request",
+      "SeverityValue": "2-High",
+      "TestStatusValue": "Failed",
+      "StatusValue": "Open",
+      "RootCauseValue": null,
+      "Id": 3163,
+      "ComponentValue": "Service Request Fulfillment",
+      "RelatedStory": "Not Applicable"
+    },
+    {
+      "__metadata": {
+        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(3193)",
+        "etag": "W/\"9\"",
+        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
+      },
+      "Release": "Production Found",
+      "ExistInProdValue": "Yes",
+      "Title": "Requests fail to complete approval process during prod code install",
+      "SeverityValue": "0-Pending",
+      "TestStatusValue": "Failed",
+      "StatusValue": "In Review",
+      "RootCauseValue": null,
+      "Id": 3193,
+      "ComponentValue": "Service Request Fulfillment",
+      "RelatedStory": "Not Applicable"
+    },
+    {
+      "__metadata": {
+        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(3205)",
+        "etag": "W/\"3\"",
+        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
+      },
+      "Release": "Production Found",
+      "ExistInProdValue": "Yes",
+      "Title": " Incorrect routing for DBSE-GMRT-SQL-US",
+      "SeverityValue": "0-Pending",
+      "TestStatusValue": "Failed",
+      "StatusValue": "New",
+      "RootCauseValue": null,
+      "Id": 3205,
+      "ComponentValue": "DLA Sys Admin",
+      "RelatedStory": "Not Applicable"
+    },
+    {
+      "__metadata": {
+        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(3222)",
+        "etag": "W/\"30\"",
+        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
+      },
+      "Release": "Production Found",
+      "ExistInProdValue": "Yes",
+      "Title": "Unable to to generate workorders",
+      "SeverityValue": "0-Pending",
+      "TestStatusValue": "Failed",
+      "StatusValue": "Open",
+      "RootCauseValue": null,
+      "Id": 3222,
+      "ComponentValue": "Service Request Fulfillment",
+      "RelatedStory": "Not Applicable"
+    },
+    {
+      "__metadata": {
+        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(3223)",
+        "etag": "W/\"7\"",
+        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
+      },
+      "Release": "Production Found",
+      "ExistInProdValue": "Yes",
+      "Title": "REQ 138494 for TFN Engineering Team, work order not generated",
+      "SeverityValue": "0-Pending",
+      "TestStatusValue": "Failed",
+      "StatusValue": "Open",
+      "RootCauseValue": null,
+      "Id": 3223,
+      "ComponentValue": "Service Request Fulfillment",
+      "RelatedStory": "Not Applicable"
+    },
+    {
+      "__metadata": {
+        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(3235)",
+        "etag": "W/\"9\"",
+        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
+      },
+      "Release": "Production Found",
+      "ExistInProdValue": "Yes",
+      "Title": "Issue with the data orphaning of maximo while merged to remedy",
+      "SeverityValue": "2-High",
+      "TestStatusValue": "Failed",
+      "StatusValue": "Open",
+      "RootCauseValue": null,
+      "Id": 3235,
+      "ComponentValue": "Interfaces",
+      "RelatedStory": "Not Applicable"
+    },
+    {
+      "__metadata": {
+        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(3305)",
+        "etag": "W/\"5\"",
+        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
+      },
+      "Release": "Production Found",
+      "ExistInProdValue": "Yes",
+      "Title": "WT- Unable to submit a new Decomm request for wrdne0ien01 since an old request already exists.",
+      "SeverityValue": "3-Medium",
+      "TestStatusValue": "Failed",
+      "StatusValue": "Open",
+      "RootCauseValue": null,
+      "Id": 3305,
+      "ComponentValue": "DLA Decom",
+      "RelatedStory": "Not Applicable"
+    },
+    {
+      "__metadata": {
+        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(3328)",
+        "etag": "W/\"7\"",
+        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
+      },
+      "Release": "Production Found",
+      "ExistInProdValue": "Yes",
+      "Title": "Cannot find LCDRE0PQ in Server Decommission Request Option",
+      "SeverityValue": "3-Medium",
+      "TestStatusValue": "Failed",
+      "StatusValue": "Open",
+      "RootCauseValue": null,
+      "Id": 3328,
+      "ComponentValue": "DLA Decom",
+      "RelatedStory": "Not Applicable"
+    },
+    {
+      "__metadata": {
+        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(3331)",
+        "etag": "W/\"5\"",
+        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
+      },
+      "Release": "Production Found",
+      "ExistInProdValue": "Yes",
+      "Title": "Corrupted request falsely show active WOs in process flow",
+      "SeverityValue": "4-Low",
+      "TestStatusValue": "Failed",
+      "StatusValue": "Open",
+      "RootCauseValue": null,
+      "Id": 3331,
+      "ComponentValue": "DLA Decom",
+      "RelatedStory": "Not Applicable"
+    },
+    {
+      "__metadata": {
+        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(3333)",
+        "etag": "W/\"7\"",
+        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
+      },
+      "Release": "Production Found",
+      "ExistInProdValue": "Yes",
+      "Title": "All Change Managers are not populating",
+      "SeverityValue": "1-Critical",
+      "TestStatusValue": "Failed",
+      "StatusValue": "Open",
+      "RootCauseValue": null,
+      "Id": 3333,
+      "ComponentValue": "Reporting",
+      "RelatedStory": "SMORE-12345"
+    },
+    {
+      "__metadata": {
+        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(3463)",
+        "etag": "W/\"8\"",
+        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
+      },
+      "Release": "Production Found",
+      "ExistInProdValue": "Yes",
+      "Title": "Recover webpage error",
+      "SeverityValue": "0-Pending",
+      "TestStatusValue": "Failed",
+      "StatusValue": "Open",
+      "RootCauseValue": null,
+      "Id": 3463,
+      "ComponentValue": "Performance",
+      "RelatedStory": "Not Applicable"
+    },
+    {
+      "__metadata": {
+        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(3557)",
+        "etag": "W/\"14\"",
+        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
+      },
+      "Release": "Production Found",
+      "ExistInProdValue": "Yes",
+      "Title": "WT- Inaccurate Server not found error",
+      "SeverityValue": "3-Medium",
+      "TestStatusValue": "Failed",
+      "StatusValue": "Open",
+      "RootCauseValue": null,
+      "Id": 3557,
+      "ComponentValue": "DLA Decom",
+      "RelatedStory": "Not Applicable"
+    },
+    {
+      "__metadata": {
+        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(3558)",
+        "etag": "W/\"12\"",
+        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
+      },
+      "Release": "Production Found",
+      "ExistInProdValue": "Yes",
+      "Title": "Incorrect approver assigned to request",
+      "SeverityValue": "0-Pending",
+      "TestStatusValue": "Failed",
+      "StatusValue": "In Review",
+      "RootCauseValue": null,
+      "Id": 3558,
+      "ComponentValue": "Service Request Fulfillment",
+      "RelatedStory": "Not Applicable"
+    },
+    {
+      "__metadata": {
+        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(3618)",
+        "etag": "W/\"7\"",
+        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
+      },
+      "Release": "Production Found",
+      "ExistInProdValue": "Yes",
+      "Title": "Duplicate activity log entries in requests",
+      "SeverityValue": "0-Pending",
+      "TestStatusValue": "Failed",
+      "StatusValue": "Open",
+      "RootCauseValue": null,
+      "Id": 3618,
+      "ComponentValue": "Service Request Fulfillment",
+      "RelatedStory": "Not Applicable"
+    },
+    {
+      "__metadata": {
+        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(3621)",
+        "etag": "W/\"2\"",
+        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
+      },
+      "Release": "Production Found",
+      "ExistInProdValue": "Yes",
+      "Title": "BizTalkIsolatedHost throttling",
+      "SeverityValue": "0-Pending",
+      "TestStatusValue": "Failed",
+      "StatusValue": "New",
+      "RootCauseValue": null,
+      "Id": 3621,
+      "ComponentValue": "Infrastructure",
+      "RelatedStory": "Not Applicable"
+    },
+    {
+      "__metadata": {
+        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(3763)",
+        "etag": "W/\"4\"",
+        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
+      },
+      "Release": "Production Found",
+      "ExistInProdValue": "Yes",
+      "Title": "Job Create OMDB Extract",
+      "SeverityValue": "3-Medium",
+      "TestStatusValue": "Failed",
+      "StatusValue": "Open",
+      "RootCauseValue": null,
+      "Id": 3763,
+      "ComponentValue": "Not Listed",
+      "RelatedStory": "Not Applicable"
+    },
+    {
+      "__metadata": {
+        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(3764)",
+        "etag": "W/\"3\"",
+        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
+      },
+      "Release": "Production Found",
+      "ExistInProdValue": "Yes",
+      "Title": "Job Load Runbook",
+      "SeverityValue": "3-Medium",
+      "TestStatusValue": "Failed",
+      "StatusValue": "Open",
+      "RootCauseValue": null,
+      "Id": 3764,
+      "ComponentValue": "Not Listed",
+      "RelatedStory": "Not Applicable"
+    },
+    {
+      "__metadata": {
+        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(3765)",
+        "etag": "W/\"2\"",
+        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
+      },
+      "Release": "Production Found",
+      "ExistInProdValue": "Yes",
+      "Title": "Runbook OMDB Master Job",
+      "SeverityValue": "3-Medium",
+      "TestStatusValue": "Failed",
+      "StatusValue": "New",
+      "RootCauseValue": null,
+      "Id": 3765,
+      "ComponentValue": "Not Listed",
+      "RelatedStory": "Not Applicable"
+    },
+    {
+      "__metadata": {
+        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(3784)",
+        "etag": "W/\"4\"",
+        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
+      },
+      "Release": "Production Found",
+      "ExistInProdValue": "Yes",
+      "Title": "Maximo incidents ebonded from IPCenter not restoring",
+      "SeverityValue": "0-Pending",
+      "TestStatusValue": "Failed",
+      "StatusValue": "Open",
+      "RootCauseValue": null,
+      "Id": 3784,
+      "ComponentValue": "Interfaces",
+      "RelatedStory": "Not Applicable"
+    },
+    {
+      "__metadata": {
+        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(4250)",
+        "etag": "W/\"3\"",
+        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
+      },
+      "Release": "Production Found",
+      "ExistInProdValue": "Yes",
+      "Title": "ITSM cost center issues with the User LAN Connectivity ",
+      "SeverityValue": "0-Pending",
+      "TestStatusValue": "Failed",
+      "StatusValue": "New",
+      "RootCauseValue": null,
+      "Id": 4250,
+      "ComponentValue": "Service Request Fulfillment",
+      "RelatedStory": "Not Applicable"
+    },
+    {
+      "__metadata": {
+        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(4347)",
+        "etag": "W/\"9\"",
+        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
+      },
+      "Release": "Production Found",
+      "ExistInProdValue": "Yes",
+      "Title": "Attempting to decom servers and receiving error that they do not exist in Maximo however they can be found in Maximo",
+      "SeverityValue": "3-Medium",
+      "TestStatusValue": "Failed",
+      "StatusValue": "Open",
+      "RootCauseValue": null,
+      "Id": 4347,
+      "ComponentValue": "DLA Decom",
+      "RelatedStory": "Not Applicable"
+    },
+    {
+      "__metadata": {
+        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(4360)",
+        "etag": "W/\"13\"",
+        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
+      },
+      "Release": "Production Found",
+      "ExistInProdValue": "Yes",
+      "Title": "remedy\not able to pull-up ATM location",
+      "SeverityValue": "3-Medium",
+      "TestStatusValue": "Failed",
+      "StatusValue": "In Review",
+      "RootCauseValue": null,
+      "Id": 4360,
+      "ComponentValue": "Foundation Data",
+      "RelatedStory": "Not Applicable"
+    },
+    {
+      "__metadata": {
+        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(4412)",
+        "etag": "W/\"5\"",
+        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
+      },
+      "Release": "Production Found",
+      "ExistInProdValue": "Yes",
+      "Title": "Decom Routing",
+      "SeverityValue": "3-Medium",
+      "TestStatusValue": "Failed",
+      "StatusValue": "Open",
+      "RootCauseValue": null,
+      "Id": 4412,
+      "ComponentValue": "DLA Decom",
+      "RelatedStory": "Not Applicable"
+    },
+    {
+      "__metadata": {
+        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(4426)",
+        "etag": "W/\"3\"",
+        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
+      },
+      "Release": "Production Found",
+      "ExistInProdValue": "Yes",
+      "Title": "work orders are routing to ITOP-CORE-TPM REASSIGN-GLBL ",
+      "SeverityValue": "0-Pending",
+      "TestStatusValue": "Failed",
+      "StatusValue": "New",
+      "RootCauseValue": null,
+      "Id": 4426,
+      "ComponentValue": "Service Request Fulfillment",
+      "RelatedStory": "Not Applicable"
+    },
+    {
+      "__metadata": {
+        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(4458)",
+        "etag": "W/\"3\"",
+        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
+      },
+      "Release": "Production Found",
+      "ExistInProdValue": "Yes",
+      "Title": "Call Detail Reporting Request SRD -  the team that should be assigned these request in Remedy does not exist  NETW-CORE-VOICE REPORTING-GLBL ",
+      "SeverityValue": "0-Pending",
+      "TestStatusValue": "Failed",
+      "StatusValue": "New",
+      "RootCauseValue": null,
+      "Id": 4458,
+      "ComponentValue": "Service Request Fulfillment",
+      "RelatedStory": "Not Applicable"
+    },
+    {
+      "__metadata": {
+        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(4545)",
+        "etag": "W/\"7\"",
+        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
+      },
+      "Release": "Production Found",
+      "ExistInProdValue": "Yes",
+      "Title": "Unknown Emails received by ITSM in error",
+      "SeverityValue": "0-Pending",
+      "TestStatusValue": "Failed",
+      "StatusValue": "Open",
+      "RootCauseValue": null,
+      "Id": 4545,
+      "ComponentValue": "Service Request Fulfillment",
+      "RelatedStory": "Not Applicable"
+    },
+    {
+      "__metadata": {
+        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(4624)",
+        "etag": "W/\"5\"",
+        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
+      },
+      "Release": "Production Found",
+      "ExistInProdValue": "Yes",
+      "Title": "SRM - Application Messaging Decomm - Missing Data Elements",
+      "SeverityValue": "2-High",
+      "TestStatusValue": "Failed",
+      "StatusValue": "Open",
+      "RootCauseValue": null,
+      "Id": 4624,
+      "ComponentValue": "DLA Decom",
+      "RelatedStory": "Not Applicable"
+    },
+    {
+      "__metadata": {
+        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(4703)",
+        "etag": "W/\"7\"",
+        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
+      },
+      "Release": "Production Found",
+      "ExistInProdValue": "Yes",
+      "Title": "Server Port Connectivity SRD",
+      "SeverityValue": "0-Pending",
+      "TestStatusValue": "Failed",
+      "StatusValue": "Open",
+      "RootCauseValue": null,
+      "Id": 4703,
+      "ComponentValue": "Service Request Fulfillment",
+      "RelatedStory": "Not Applicable"
+    },
+    {
+      "__metadata": {
+        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(4722)",
+        "etag": "W/\"11\"",
+        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
+      },
+      "Release": "Production Found",
+      "ExistInProdValue": "Yes",
+      "Title": "Unable to create 6 new decom requests due to previously ",
+      "SeverityValue": "3-Medium",
+      "TestStatusValue": "Failed",
+      "StatusValue": "Open",
+      "RootCauseValue": null,
+      "Id": 4722,
+      "ComponentValue": "DLA Decom",
+      "RelatedStory": "Not Applicable"
+    },
+    {
+      "__metadata": {
+        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(4769)",
+        "etag": "W/\"5\"",
+        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
+      },
+      "Release": "Production Found",
+      "ExistInProdValue": "Yes",
+      "Title": "ATM request-modify display details",
+      "SeverityValue": "0-Pending",
+      "TestStatusValue": "Failed",
+      "StatusValue": "Open",
+      "RootCauseValue": null,
+      "Id": 4769,
+      "ComponentValue": "Service Request Fulfillment",
+      "RelatedStory": "Not Applicable"
+    },
+    {
+      "__metadata": {
+        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(4907)",
+        "etag": "W/\"3\"",
+        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
+      },
+      "Release": "Production Found",
+      "ExistInProdValue": "Yes",
+      "Title": "SRM not allowing optional components to be removed when request is in Draft mode",
+      "SeverityValue": "0-Pending",
+      "TestStatusValue": "Failed",
+      "StatusValue": "New",
+      "RootCauseValue": null,
+      "Id": 4907,
+      "ComponentValue": "DLA Design Console",
+      "RelatedStory": "Not Applicable"
+    },
+    {
+      "__metadata": {
+        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5079)",
+        "etag": "W/\"9\"",
+        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
+      },
+      "Release": "Production Found",
+      "ExistInProdValue": "Yes",
+      "Title": "ITSM notifications with garbled text ",
+      "SeverityValue": "0-Pending",
+      "TestStatusValue": "Failed",
+      "StatusValue": "Open",
+      "RootCauseValue": null,
+      "Id": 5079,
+      "ComponentValue": "Service Request Fulfillment",
+      "RelatedStory": "Not Applicable"
+    },
+    {
+      "__metadata": {
+        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5090)",
+        "etag": "W/\"15\"",
+        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
+      },
+      "Release": "Production Found",
+      "ExistInProdValue": "Yes",
+      "Title": "Users switching their locale and receiving a plugin error",
+      "SeverityValue": "4-Low",
+      "TestStatusValue": "Failed",
+      "StatusValue": "In Review",
+      "RootCauseValue": null,
+      "Id": 5090,
+      "ComponentValue": "Foundation Data",
+      "RelatedStory": "Not Applicable"
+    }
+  ]
+}
+
+
