@@ -614,13 +614,13 @@
 										   			<!-- iFrame in Modal for Edit is not working in IE -->
 										   			<!-- <li type="submit" class="glyphicon glyphicon-edit" data-ng-click="editIssue(item.Id)" id="modal-edit" href="#modal-container-editIssue" role="button" class="btn" data-toggle="modal">
 													</li> -->
-													<a target="_blank" href="http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/Lists/IssueTracker/Issue/editifs.aspx?ID={{item.Id}}">
+													<a target="_blank" href="http://sharepoint.yourcompany.com/sites/IssueTracker/Issue/editifs.aspx?ID={{item.Id}}">
 														<li class="glyphicon glyphicon-edit" style="color:black"></li>
 													</li>
 													</a>
 										   		</td>
 										        <td>
-										        	<a target="_blank" href="http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/Lists/IssueTracker/Issue/displayifs.aspx?ID={{item.Id}}">
+										        	<a target="_blank" href="http://sharepoint.yourcompany.com/sites/IssueTracker/Issue/displayifs.aspx?ID={{item.Id}}">
 														<strong>{{item.Id}}</strong>
 													</a>
 													<!-- Modal was here -->
@@ -757,10 +757,10 @@
 											<button type="button" class="btn btn-default" data-dismiss="modal">
 												Close
 											</button> 
-											<a data-ng-hide="isArchieved" type="button" class="btn btn-primary" target="_blank" href="http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/Lists/IssueTracker/Issue/displayifs.aspx?ID={{searchReturnedById[0].Id}}">
+											<a data-ng-hide="isArchieved" type="button" class="btn btn-primary" target="_blank" href="http://sharepoint.yourcompany.com/sites/IssueTracker/Issue/displayifs.aspx?ID={{searchReturnedById[0].Id}}">
 												More Info on <strong>Issue - {{searchReturnedById[0].Id}}</strong>
 											</a>
-											<a data-ng-show="isArchieved" type="button" class="btn btn-primary" target="_blank" href="http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/Lists/ita/Issue/displayifs.aspx?ID={{searchReturnedById[0].Id}}">
+											<a data-ng-show="isArchieved" type="button" class="btn btn-primary" target="_blank" href="http://sharepoint.yourcompany.com/sites//ita/Issue/displayifs.aspx?ID={{searchReturnedById[0].Id}}">
 												More Info on <strong>Issue - {{searchReturnedById[0].Id}}</strong>
 											</a>
 										</div>
@@ -1038,18 +1038,18 @@
 
 				<p class="footer-links">
 					
-					<a href="http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/default.aspx" target=_blank>Test Management</a>
+					<a href="http://sharepoint.yourcompany.com/sites/qualitymgmt/tm/default.aspx" target=_blank>Test Management</a>
 					·
-					<a href="http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/Lists/IssueTracker/Active.aspx" target=_blank>Issue Tracker</a>
+					<a href="http://sharepoint.yourcompany.com/sites/IssueTracker/Active.aspx" target=_blank>Issue Tracker</a>
 					·
-	 				<a href="http://sharepointapps.bankofamerica.com/sites/IRIS" target=_blank> IRIS </a>
+	 				<a href="http://sharepointapps.yourcompany.com/sites/IRIS" target=_blank> IRIS </a>
 	 				·
-	 				<a href="mailto:sanjay.p.rawat@bankofamerica.com">Contact</a>
+	 				<a href="mailto:sanjay.p.rawat@yourcompany.com">Contact</a>
 	 
 				</p>
 
 				<p class="footer-company-name">
-					© 2015 Bank of America Corporation. Author -  <em>Sanjay Rawat</em> <br>
+					© 2015 - <em>Sanjay Rawat</em> <br>
 					<em>version 1.8.1</em>
 				</p>
 		</footer>
