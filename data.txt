@@ -2,11 +2,6 @@
 {
   "d": [
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(641)",
-        "etag": "W/\"20\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Production Found",
       "ExistInProdValue": "Yes",
       "Title": "When searching for EARC components in SRM Design Console, Autosys Agent can't be found.",
@@ -19,11 +14,6 @@
       "RelatedStory": "Not Applicable"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(787)",
-        "etag": "W/\"16\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Production Found",
       "ExistInProdValue": "Yes",
       "Title": "Design Console data issue",
@@ -36,11 +26,6 @@
       "RelatedStory": "Not Applicable"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(866)",
-        "etag": "W/\"3\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Production Found",
       "ExistInProdValue": "Yes",
       "Title": "Getting Maximo error for Server/Storage decoms",
@@ -53,11 +38,6 @@
       "RelatedStory": "Not Applicable"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(1074)",
-        "etag": "W/\"9\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Production Found",
       "ExistInProdValue": "Yes",
       "Title": "Incorrect Service Levels reported in SR Detail report.",
@@ -70,11 +50,6 @@
       "RelatedStory": "Not Applicable"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(1168)",
-        "etag": "W/\"18\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Production Found",
       "ExistInProdValue": "Yes",
       "Title": "For same server DLA Request, there are two work items generated",
@@ -87,11 +62,6 @@
       "RelatedStory": "Not Applicable"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(1427)",
-        "etag": "W/\"11\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Production Found",
       "ExistInProdValue": "Yes",
       "Title": "Maximo/Biztalk sends multiple messages to IPCenter for same txn",
@@ -104,11 +74,6 @@
       "RelatedStory": "Not Applicable"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(1521)",
-        "etag": "W/\"7\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Production Found",
       "ExistInProdValue": "Yes",
       "Title": "CEW Reporting drops product lines",
@@ -121,11 +86,6 @@
       "RelatedStory": "Not Applicable"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(1722)",
-        "etag": "W/\"95\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Production Found",
       "ExistInProdValue": "Yes",
       "Title": "AI job for AD OUs failing because of retired servers",
@@ -138,11 +98,6 @@
       "RelatedStory": "Not Applicable"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(1746)",
-        "etag": "W/\"9\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Production Found",
       "ExistInProdValue": "Yes",
       "Title": " MAXIMO - Requests need to be closed (forc-closed).",
@@ -155,11 +110,6 @@
       "RelatedStory": "Not Applicable"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(1751)",
-        "etag": "W/\"7\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Production Found",
       "ExistInProdValue": "Yes",
       "Title": "Maximo- Request Mgmt:  Unable to retain date change.",
@@ -172,14 +122,9 @@
       "RelatedStory": "Not Applicable"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(1756)",
-        "etag": "W/\"5\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Production Found",
       "ExistInProdValue": "Yes",
-      "Title": "hk.apac.america.com.com DNS domain missing.",
+      "Title": "hk.apac.london.com.com DNS domain missing.",
       "SeverityValue": "3-Medium",
       "TestStatusValue": "Failed",
       "StatusValue": "Open",
@@ -189,11 +134,6 @@
       "RelatedStory": "Not Applicable"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(1889)",
-        "etag": "W/\"5\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Production Found",
       "ExistInProdValue": "Yes",
       "Title": "Missing Service Request 81256 from the IT Console.",
@@ -206,11 +146,6 @@
       "RelatedStory": "Not Applicable"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(1924)",
-        "etag": "W/\"23\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Production Found",
       "ExistInProdValue": "Yes",
       "Title": "REM>MXO incidents won't go to CLOSED because dispatches are in COMP status",
@@ -223,11 +158,6 @@
       "RelatedStory": "Not Applicable"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(1927)",
-        "etag": "W/\"5\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Production Found",
       "ExistInProdValue": "Yes",
       "Title": "Old Service Requests in the IT Console that should have been closed.",
@@ -240,11 +170,6 @@
       "RelatedStory": "Not Applicable"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(1980)",
-        "etag": "W/\"7\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Production Found",
       "ExistInProdValue": "Yes",
       "Title": "eSmart report quantities inaccurate for server decom's when multiple hostnames provided",
@@ -257,11 +182,6 @@
       "RelatedStory": "Not Applicable"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(2000)",
-        "etag": "W/\"5\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Production Found",
       "ExistInProdValue": "Yes",
       "Title": "IIS services not discovered in SRM decom requests",
@@ -274,11 +194,6 @@
       "RelatedStory": "Not Applicable"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(2014)",
-        "etag": "W/\"13\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Production Found",
       "ExistInProdValue": "Yes",
       "Title": "Cannot find requests in IT Home Global Search",
@@ -291,11 +206,6 @@
       "RelatedStory": "Not Applicable"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(2028)",
-        "etag": "W/\"15\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Production Found",
       "ExistInProdValue": "Yes",
       "Title": "Workorder fields are blank or missing to some fulfillment users",
@@ -308,11 +218,6 @@
       "RelatedStory": "Not Applicable"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(2047)",
-        "etag": "W/\"9\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Production Found",
       "ExistInProdValue": "Yes",
       "Title": "System does not detect active storage on LKCMA0EA",
@@ -325,11 +230,6 @@
       "RelatedStory": "Not Applicable"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(2058)",
-        "etag": "W/\"3\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Production Found",
       "ExistInProdValue": "Yes",
       "Title": "Application Messaging Removal Work Orders are being routed to a Middleware support team",
@@ -342,11 +242,6 @@
       "RelatedStory": "Not Applicable"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(2073)",
-        "etag": "W/\"11\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Production Found",
       "ExistInProdValue": "Yes",
       "Title": "The link of the associated work orders which are relate to a another work order is not working. ",
@@ -359,11 +254,6 @@
       "RelatedStory": "Not Applicable"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(2079)",
-        "etag": "W/\"9\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Production Found",
       "ExistInProdValue": "Yes",
       "Title": "Multiple approvals assigned to same manager for one request",
@@ -376,11 +266,6 @@
       "RelatedStory": "Not Applicable"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(2109)",
-        "etag": "W/\"3\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Production Found",
       "ExistInProdValue": "Yes",
       "Title": "User added a CI TAPMLB10VA host name,0014053 serial number to maximo on 10/23 however it's still not available in ITSM nor in RTT",
@@ -393,11 +278,6 @@
       "RelatedStory": "Not Applicable"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(2297)",
-        "etag": "W/\"17\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Production Found",
       "ExistInProdValue": "Yes",
       "Title": "DLA Server Decom - Duplicate Server name with different serial numbers.",
@@ -410,11 +290,6 @@
       "RelatedStory": "Not Applicable"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(3067)",
-        "etag": "W/\"5\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Production Found",
       "ExistInProdValue": "Yes",
       "Title": "Request  NOT at Mgr Approval Queue and Not to me the Delegate - Request REQ000000129524 ",
@@ -427,11 +302,6 @@
       "RelatedStory": "Not Applicable"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(3112)",
-        "etag": "W/\"13\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Production Found",
       "ExistInProdValue": "Yes",
       "Title": "Re-Opened Network Request is placed into a Server queue",
@@ -444,11 +314,6 @@
       "RelatedStory": "Not Applicable"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(3160)",
-        "etag": "W/\"5\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Production Found",
       "ExistInProdValue": "Yes",
       "Title": "Database work order not created for Decom DB server",
@@ -461,11 +326,6 @@
       "RelatedStory": "Not Applicable"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(3163)",
-        "etag": "W/\"15\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Production Found",
       "ExistInProdValue": "Yes",
       "Title": "Auto Cancellation NOT automatic set to YES on Service Request",
@@ -478,11 +338,6 @@
       "RelatedStory": "Not Applicable"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(3193)",
-        "etag": "W/\"9\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Production Found",
       "ExistInProdValue": "Yes",
       "Title": "Requests fail to complete approval process during prod code install",
@@ -495,11 +350,6 @@
       "RelatedStory": "Not Applicable"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(3205)",
-        "etag": "W/\"3\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Production Found",
       "ExistInProdValue": "Yes",
       "Title": " Incorrect routing for DBSE-GMRT-SQL-US",
@@ -512,11 +362,6 @@
       "RelatedStory": "Not Applicable"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(3222)",
-        "etag": "W/\"30\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Production Found",
       "ExistInProdValue": "Yes",
       "Title": "Unable to to generate workorders",
@@ -529,11 +374,6 @@
       "RelatedStory": "Not Applicable"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(3223)",
-        "etag": "W/\"7\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Production Found",
       "ExistInProdValue": "Yes",
       "Title": "REQ 138494 for TFN Engineering Team, work order not generated",
@@ -546,11 +386,6 @@
       "RelatedStory": "Not Applicable"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(3235)",
-        "etag": "W/\"9\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Production Found",
       "ExistInProdValue": "Yes",
       "Title": "Issue with the data orphaning of maximo while merged to remedy",
@@ -563,11 +398,6 @@
       "RelatedStory": "Not Applicable"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(3305)",
-        "etag": "W/\"5\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Production Found",
       "ExistInProdValue": "Yes",
       "Title": "WT- Unable to submit a new Decomm request for wrdne0ien01 since an old request already exists.",
@@ -580,11 +410,6 @@
       "RelatedStory": "Not Applicable"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(3328)",
-        "etag": "W/\"7\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Production Found",
       "ExistInProdValue": "Yes",
       "Title": "Cannot find LCDRE0PQ in Server Decommission Request Option",
@@ -597,11 +422,6 @@
       "RelatedStory": "Not Applicable"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(3331)",
-        "etag": "W/\"5\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Production Found",
       "ExistInProdValue": "Yes",
       "Title": "Corrupted request falsely show active WOs in process flow",
@@ -614,11 +434,6 @@
       "RelatedStory": "Not Applicable"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(3333)",
-        "etag": "W/\"7\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Production Found",
       "ExistInProdValue": "Yes",
       "Title": "All Change Managers are not populating",
@@ -631,11 +446,6 @@
       "RelatedStory": "SMORE-12345"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(3463)",
-        "etag": "W/\"8\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Production Found",
       "ExistInProdValue": "Yes",
       "Title": "Recover webpage error",
@@ -648,11 +458,6 @@
       "RelatedStory": "Not Applicable"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(3557)",
-        "etag": "W/\"14\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Production Found",
       "ExistInProdValue": "Yes",
       "Title": "WT- Inaccurate Server not found error",
@@ -665,11 +470,6 @@
       "RelatedStory": "Not Applicable"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(3558)",
-        "etag": "W/\"12\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Production Found",
       "ExistInProdValue": "Yes",
       "Title": "Incorrect approver assigned to request",
@@ -682,11 +482,6 @@
       "RelatedStory": "Not Applicable"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(3618)",
-        "etag": "W/\"7\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Production Found",
       "ExistInProdValue": "Yes",
       "Title": "Duplicate activity log entries in requests",
@@ -699,11 +494,6 @@
       "RelatedStory": "Not Applicable"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(3621)",
-        "etag": "W/\"2\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Production Found",
       "ExistInProdValue": "Yes",
       "Title": "BizTalkIsolatedHost throttling",
@@ -716,11 +506,6 @@
       "RelatedStory": "Not Applicable"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(3763)",
-        "etag": "W/\"4\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Production Found",
       "ExistInProdValue": "Yes",
       "Title": "Job Create OMDB Extract",
@@ -733,11 +518,6 @@
       "RelatedStory": "Not Applicable"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(3764)",
-        "etag": "W/\"3\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Production Found",
       "ExistInProdValue": "Yes",
       "Title": "Job Load Runbook",
@@ -750,11 +530,6 @@
       "RelatedStory": "Not Applicable"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(3765)",
-        "etag": "W/\"2\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Production Found",
       "ExistInProdValue": "Yes",
       "Title": "Runbook OMDB Master Job",
@@ -767,11 +542,6 @@
       "RelatedStory": "Not Applicable"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(3784)",
-        "etag": "W/\"4\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Production Found",
       "ExistInProdValue": "Yes",
       "Title": "Maximo incidents ebonded from IPCenter not restoring",
@@ -784,11 +554,6 @@
       "RelatedStory": "Not Applicable"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(4250)",
-        "etag": "W/\"3\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Production Found",
       "ExistInProdValue": "Yes",
       "Title": "ITSM cost center issues with the User LAN Connectivity ",
@@ -801,11 +566,6 @@
       "RelatedStory": "Not Applicable"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(4347)",
-        "etag": "W/\"9\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Production Found",
       "ExistInProdValue": "Yes",
       "Title": "Attempting to decom servers and receiving error that they do not exist in Maximo however they can be found in Maximo",
@@ -818,11 +578,6 @@
       "RelatedStory": "Not Applicable"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(4360)",
-        "etag": "W/\"13\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Production Found",
       "ExistInProdValue": "Yes",
       "Title": "remedy\not able to pull-up ATM location",
@@ -835,11 +590,6 @@
       "RelatedStory": "Not Applicable"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(4412)",
-        "etag": "W/\"5\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Production Found",
       "ExistInProdValue": "Yes",
       "Title": "Decom Routing",
@@ -852,11 +602,6 @@
       "RelatedStory": "Not Applicable"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(4426)",
-        "etag": "W/\"3\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Production Found",
       "ExistInProdValue": "Yes",
       "Title": "work orders are routing to ITOP-CORE-TPM REASSIGN-GLBL ",
@@ -869,11 +614,6 @@
       "RelatedStory": "Not Applicable"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(4458)",
-        "etag": "W/\"3\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Production Found",
       "ExistInProdValue": "Yes",
       "Title": "Call Detail Reporting Request SRD -  the team that should be assigned these request in Remedy does not exist  NETW-CORE-VOICE REPORTING-GLBL ",
@@ -886,11 +626,6 @@
       "RelatedStory": "Not Applicable"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(4545)",
-        "etag": "W/\"7\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Production Found",
       "ExistInProdValue": "Yes",
       "Title": "Unknown Emails received by ITSM in error",
@@ -903,11 +638,6 @@
       "RelatedStory": "Not Applicable"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(4624)",
-        "etag": "W/\"5\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Production Found",
       "ExistInProdValue": "Yes",
       "Title": "SRM - Application Messaging Decomm - Missing Data Elements",
@@ -920,11 +650,6 @@
       "RelatedStory": "Not Applicable"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(4703)",
-        "etag": "W/\"7\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Production Found",
       "ExistInProdValue": "Yes",
       "Title": "Server Port Connectivity SRD",
@@ -937,11 +662,6 @@
       "RelatedStory": "Not Applicable"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(4722)",
-        "etag": "W/\"11\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Production Found",
       "ExistInProdValue": "Yes",
       "Title": "Unable to create 6 new decom requests due to previously ",
@@ -954,11 +674,6 @@
       "RelatedStory": "Not Applicable"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(4769)",
-        "etag": "W/\"5\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Production Found",
       "ExistInProdValue": "Yes",
       "Title": "ATM request-modify display details",
@@ -971,11 +686,6 @@
       "RelatedStory": "Not Applicable"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(4907)",
-        "etag": "W/\"3\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Production Found",
       "ExistInProdValue": "Yes",
       "Title": "SRM not allowing optional components to be removed when request is in Draft mode",
@@ -988,11 +698,6 @@
       "RelatedStory": "Not Applicable"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5079)",
-        "etag": "W/\"9\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Production Found",
       "ExistInProdValue": "Yes",
       "Title": "ITSM notifications with garbled text ",
@@ -1005,11 +710,6 @@
       "RelatedStory": "Not Applicable"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5090)",
-        "etag": "W/\"15\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Production Found",
       "ExistInProdValue": "Yes",
       "Title": "Users switching their locale and receiving a plugin error",
@@ -1028,11 +728,6 @@
 {
   "d": [
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5032)",
-        "etag": "W/\"27\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "SRWizRequester values are incorrect when using On Behalf Of",
@@ -1045,11 +740,6 @@
       "RelatedStory": "Not Applicable"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5156)",
-        "etag": "W/\"15\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "Circuit CI created before 20 minutes not appearing in BMC Asset data set ",
@@ -1062,11 +752,6 @@
       "RelatedStory": "E2E Circuit CI"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5157)",
-        "etag": "W/\"17\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "Computer System CI: CI not moving to BMC.Asset",
@@ -1079,11 +764,6 @@
       "RelatedStory": "E2E Asset_Computer_System"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5158)",
-        "etag": "W/\"17\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "AI Job Error - CI Bulk Upload is not working. CIs are not getting related and long error message is displayed on More Info.",
@@ -1096,11 +776,6 @@
       "RelatedStory": "E2E Change #2"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5159)",
-        "etag": "W/\"24\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "Load Errors received while creating/updating the CIs using Data Load functionality",
@@ -1113,11 +788,6 @@
       "RelatedStory": "E2E Asset_Computer_System"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5161)",
-        "etag": "W/\"13\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "Error message is displayed when we click on the Add/Modify Infrastructure Demand Link \"You have no access permission to the form BAC:ITBM:ForecastDemand\"",
@@ -1130,11 +800,6 @@
       "RelatedStory": "E2E_ITBM_8.1"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5200)",
-        "etag": "W/\"15\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "Resource Adjustment Request  is getting cancelled. ",
@@ -1147,11 +812,6 @@
       "RelatedStory": "SMORE-13784"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5206)",
-        "etag": "W/\"29\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "Search Knowledge is not displayed under functions menu for Change users: LDT7411/LDT7417",
@@ -1164,11 +824,6 @@
       "RelatedStory": "SMORE-14291"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5208)",
-        "etag": "W/\"24\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "In Server name field's drop down list getting closed on clicking down Arrow in dropdown list ",
@@ -1181,11 +836,6 @@
       "RelatedStory": "SMORE-13784"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5209)",
-        "etag": "W/\"21\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "Region, Site Group and Site information is not displayed in the Impacted Areas for a different Problem Coordinator.",
@@ -1198,11 +848,6 @@
       "RelatedStory": "SMORE-14679"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5210)",
-        "etag": "W/\"25\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "Yes",
       "Title": "Error Message \"You have no access permission to the form RKM:CreateNewKnowledgeArticle. (ARERR 9264)\" is displayed .",
@@ -1215,11 +860,6 @@
       "RelatedStory": "SMORE-14475"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5212)",
-        "etag": "W/\"17\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "Yes",
       "Title": "Displaying error message as 'You have no access permission to the form RKM:CreateNewKnowledgeArticle. (ARERR 9264)' when clicking on Create Knowledge with LDT7302-LDT7315",
@@ -1232,11 +872,6 @@
       "RelatedStory": "SMORE-14926"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5213)",
-        "etag": "W/\"23\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "Nothing displays When performed Basic search.",
@@ -1249,11 +884,6 @@
       "RelatedStory": "SMORE-14412"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5214)",
-        "etag": "W/\"16\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "Error being displayed as \nYou have no access to form : AST:BusinessService (ARERR 353) ",
@@ -1266,11 +896,6 @@
       "RelatedStory": "SMORE-14017"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5216)",
-        "etag": "W/\"15\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "Yes",
       "Title": "Task Assignment Email notification for requests is not sent to mapped corp2 ID.",
@@ -1283,11 +908,6 @@
       "RelatedStory": "SMORE-14513"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5217)",
-        "etag": "W/\"29\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "An Overlapped text Display on label of Advance Search  filter",
@@ -1300,11 +920,6 @@
       "RelatedStory": "SMORE-14412"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5219)",
-        "etag": "W/\"17\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "Basic Search is not working, Showing 0 entries for any CRQ while the same CRQ is displayed using Advanced search",
@@ -1317,11 +932,6 @@
       "RelatedStory": "SMORE-14482"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5220)",
-        "etag": "W/\"34\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "Yes",
       "Title": "Error message 'Either the Form List is empty or forms do not have any FTS fields in the AR System Multi-Form Search form : formList=3571;3573;3579;3584;3585 (ARERR 691)' is displayed when trying to search for KM article using basic search",
@@ -1334,11 +944,6 @@
       "RelatedStory": "SMORE-14926"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5221)",
-        "etag": "W/\"32\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "Yes",
       "Title": "Getting an error when clicked on Search Knowledge base. ",
@@ -1351,11 +956,6 @@
       "RelatedStory": "SMORE-14925"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5222)",
-        "etag": "W/\"15\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "Yes",
       "Title": "Error message displays when click on Search Knowledge base",
@@ -1368,11 +968,6 @@
       "RelatedStory": "SMORE-14294"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5223)",
-        "etag": "W/\"39\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "Its displaying error message when trying to select the highest impact value of CI while restarting CRQ from Rejected ",
@@ -1385,11 +980,6 @@
       "RelatedStory": "SMORE-14123"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5224)",
-        "etag": "W/\"29\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "Yes",
       "Title": "Error Message is getting displayed when we search the Article Title or Problem ID using Basic search option ",
@@ -1402,11 +992,6 @@
       "RelatedStory": "SMORE-14475"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5225)",
-        "etag": "W/\"17\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "Error is displaying with 'Resource Adjustment-Post Adjustment Validation' task fulfillment window.",
@@ -1419,11 +1004,6 @@
       "RelatedStory": "SMORE-13784"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5226)",
-        "etag": "W/\"31\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "Text value is displayed as 'Please select the preferred area code.' instead of 'What is the preferred notification method of received and failed faxes?'",
@@ -1436,11 +1016,6 @@
       "RelatedStory": "SMORE-14665"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5227)",
-        "etag": "W/\"21\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "As per pre requisite  : Error Message is displayed while creating the realtionship as \"IMPACT\" between CI ",
@@ -1453,11 +1028,6 @@
       "RelatedStory": "SMORE-14445"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5229)",
-        "etag": "W/\"27\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "No email notification send for requestor regarding rejection.",
@@ -1470,11 +1040,6 @@
       "RelatedStory": "SMORE-14666"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5231)",
-        "etag": "W/\"17\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "\"Manufacturer\" word is misspelled in Error file.",
@@ -1487,11 +1052,6 @@
       "RelatedStory": "SMORE-14277"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5232)",
-        "etag": "W/\"15\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "The date fields on CI under Lifecycle section do not match the values entered in load template.",
@@ -1504,11 +1064,6 @@
       "RelatedStory": "SMORE-14277"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5234)",
-        "etag": "W/\"34\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "Floor and Room values are not cleared when Site field is updated with new value",
@@ -1521,11 +1076,6 @@
       "RelatedStory": "SMORE-13676"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5235)",
-        "etag": "W/\"37\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "Change Search & Status Update on RKM form",
@@ -1538,11 +1088,6 @@
       "RelatedStory": "SMORE-14482"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5236)",
-        "etag": "W/\"27\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "Search Service Request from RKM form",
@@ -1555,11 +1100,6 @@
       "RelatedStory": "SMORE-14304"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5237)",
-        "etag": "W/\"43\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "Incident Threshold Alert (2nd Alert) sending email to Assignee when no Assignee is specified.",
@@ -1572,11 +1112,6 @@
       "RelatedStory": "SMORE-14245"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5238)",
-        "etag": "W/\"11\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "Yes",
       "Title": "Where are the data attributes for No Search Results and Article Usage Viewed? ",
@@ -1589,11 +1124,6 @@
       "RelatedStory": "Not Applicable"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5239)",
-        "etag": "W/\"11\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "Created CI are not moving from BMC Asset Sandbox to BMC ASSET",
@@ -1606,11 +1136,6 @@
       "RelatedStory": "SMORE-14477"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5240)",
-        "etag": "W/\"13\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "BAC.MDH.IMPORT Recon Job is Failing in SIT1",
@@ -1623,11 +1148,6 @@
       "RelatedStory": "SMORE-14290"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5241)",
-        "etag": "W/\"14\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "Yes",
       "Title": "Incident Template - 1002 value is not displayed in 'Template Category Tier 1' Dropdown field on the Incident Template Window.",
@@ -1640,11 +1160,6 @@
       "RelatedStory": "SMORE-14769"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5242)",
-        "etag": "W/\"37\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "While changing the Status of KM article from In progress to Draft an Error message is getting displayed.",
@@ -1657,11 +1172,6 @@
       "RelatedStory": "SMORE-14477"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5243)",
-        "etag": "W/\"15\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "Yes",
       "Title": "Save button is enabled and the logged in user can edit the template in the Incident Template Selection window and the changes are saved.",
@@ -1674,11 +1184,6 @@
       "RelatedStory": "SMORE-14769"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5246)",
-        "etag": "W/\"19\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "Yes",
       "Title": "Typo in Warning Message",
@@ -1691,11 +1196,6 @@
       "RelatedStory": "SMORE-14467"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5247)",
-        "etag": "W/\"13\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "Esupport has not coded to support the update of Operational fields at this time.",
@@ -1708,11 +1208,6 @@
       "RelatedStory": "SMORE-14465"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5250)",
-        "etag": "W/\"25\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "Using 'Search' Not Rendering Results as Expected",
@@ -1725,11 +1220,6 @@
       "RelatedStory": "Not Applicable"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5255)",
-        "etag": "W/\"17\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "Yes",
       "Title": "Error Message is getting displayed while changing the status of KM article from In progress to Draft.",
@@ -1742,11 +1232,6 @@
       "RelatedStory": "SMORE-14475"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5257)",
-        "etag": "W/\"21\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "Standard Change with a ChangeCon Event conflict moves to Scheduled status instead of SFA.",
@@ -1759,11 +1244,6 @@
       "RelatedStory": "SMORE-15133"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5258)",
-        "etag": "W/\"17\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "Emergency Change - Change Con Approvers are not getting displayed for a change with Change Con Conflict",
@@ -1776,11 +1256,6 @@
       "RelatedStory": "SMORE-15133"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5259)",
-        "etag": "W/\"22\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "Incident record values are not getting pre-populated during creating incident from change request, but able to see the values after I save and open that incident",
@@ -1793,11 +1268,6 @@
       "RelatedStory": "SMORE-15064"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5261)",
-        "etag": "W/\"15\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "Yes",
       "Title": "Assigned Group = NETW-CORE-SERVICE DESK-GLBL is not displayed for the selected template.",
@@ -1810,11 +1280,6 @@
       "RelatedStory": "SMORE-14769"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5264)",
-        "etag": "W/\"13\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "Update of Priority Mismatch",
@@ -1827,11 +1292,6 @@
       "RelatedStory": "SMORE-15036"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5265)",
-        "etag": "W/\"19\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "Error message is getting displayed when we search KM article from Basic search link .",
@@ -1844,11 +1304,6 @@
       "RelatedStory": "SMORE-14477"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5269)",
-        "etag": "W/\"19\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "Yes",
       "Title": "Incident ticket  got saved. no error message is displayed.",
@@ -1861,11 +1316,6 @@
       "RelatedStory": "SMORE-14466"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5270)",
-        "etag": "W/\"15\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "RDM Configurations not done correctly. ",
@@ -1878,11 +1328,6 @@
       "RelatedStory": "SMORE-14559"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5271)",
-        "etag": "W/\"19\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "No records are displayed in the Notification table.",
@@ -1895,11 +1340,6 @@
       "RelatedStory": "SMORE-14561"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5277)",
-        "etag": "W/\"18\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "Request status (draft) is not mentioned in the email subject. Request ID: \nREQ000000060759",
@@ -1912,11 +1352,6 @@
       "RelatedStory": "SMORE-14356"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5282)",
-        "etag": "W/\"27\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "Incident Interfaces doesnt map Prioirty when a template is passed with the incident creation",
@@ -1929,11 +1364,6 @@
       "RelatedStory": "SMORE-15036"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5283)",
-        "etag": "W/\"29\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "MAXIMO Incident ticket is not displaying in Remedy-SIT1.",
@@ -1946,11 +1376,6 @@
       "RelatedStory": "SMORE-15043"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5284)",
-        "etag": "W/\"13\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "Unable to click submit button",
@@ -1963,11 +1388,6 @@
       "RelatedStory": "US-CE Training Scr"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5285)",
-        "etag": "W/\"17\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "Unable to test the scenario \" Individual resolving the Incident is not a member of default group,assigned group and owning group\"",
@@ -1980,11 +1400,6 @@
       "RelatedStory": "SMORE-14463"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5287)",
-        "etag": "W/\"15\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "Incident and Problem Management Access",
@@ -1997,11 +1412,6 @@
       "RelatedStory": "Not Applicable"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5291)",
-        "etag": "W/\"41\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "Notifications are not sent.",
@@ -2014,11 +1424,6 @@
       "RelatedStory": "SMORE-14561"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5292)",
-        "etag": "W/\"12\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "Confidential work log entries are visible for LDT7205",
@@ -2031,11 +1436,6 @@
       "RelatedStory": "SMORE-14775"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5294)",
-        "etag": "W/\"31\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "Status is changing to \"scheduled for approval\" when clicking on restart and then asking to resolve collisions and save.",
@@ -2048,11 +1448,6 @@
       "RelatedStory": "SMORE-14123"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5296)",
-        "etag": "W/\"13\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "On Query Search, following error is populating \" Unknown field referenced in query line : at position 80 ( 'Assignee Login ID' ) (ARERR 1587) \" ",
@@ -2065,11 +1460,6 @@
       "RelatedStory": "SMORE-15080"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5298)",
-        "etag": "W/\"37\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "Yes",
       "Title": "Status of KM article is populating as \"BLANK\" in relationship tab of  Problem Ticket",
@@ -2082,11 +1472,6 @@
       "RelatedStory": "SMORE-14475"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5301)",
-        "etag": "W/\"15\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "Query name got changed to Impact= 1-High.",
@@ -2099,11 +1484,6 @@
       "RelatedStory": "SMORE-15080"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5304)",
-        "etag": "W/\"43\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "Tag & Location Data Coming from MDH Not Being Updated on CI in CMDB",
@@ -2116,11 +1496,6 @@
       "RelatedStory": "SMORE-14337"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5310)",
-        "etag": "W/\"21\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "Change Scheduled Dates are not getting copied to Task created from Task Tamplates as well in Adhoc Task.",
@@ -2133,11 +1508,6 @@
       "RelatedStory": "SMORE-14431"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5311)",
-        "etag": "W/\"27\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "Not Able to Access Omdb UAT1 link",
@@ -2150,11 +1520,6 @@
       "RelatedStory": "E2E INT ITSM MOAB-RB-CHP-MXO"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5312)",
-        "etag": "W/\"23\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "AO moved to pending status ",
@@ -2167,11 +1532,6 @@
       "RelatedStory": "E2E INT ITSM MOAB-RB-CHP-MXO"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5314)",
-        "etag": "W/\"27\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "Problem Assigned Group not displaying in Problem record using PKE UPDATE (Defect ID: 5151)",
@@ -2184,11 +1544,6 @@
       "RelatedStory": "SMORE-15126"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5315)",
-        "etag": "W/\"11\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "Work Order Manager Assignment email notification subject line does not mention the word 'Manager'",
@@ -2201,11 +1556,6 @@
       "RelatedStory": "SMORE-14356"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5316)",
-        "etag": "W/\"7\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "Training Issue Tracker, please close",
@@ -2218,11 +1568,6 @@
       "RelatedStory": "US-CE Training Scr"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5317)",
-        "etag": "W/\"7\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "Training Issue Tracker, please close",
@@ -2235,11 +1580,6 @@
       "RelatedStory": "Not Applicable"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5318)",
-        "etag": "W/\"11\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "Priority is not displayed in the work order email notification",
@@ -2252,11 +1592,6 @@
       "RelatedStory": "SMORE-14356"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5319)",
-        "etag": "W/\"15\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "Getting error when navigating to Data Management >> Job Console ",
@@ -2269,11 +1604,6 @@
       "RelatedStory": "E2E Asset_Computer_System"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5321)",
-        "etag": "W/\"31\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "No server details are displaying in the Runbook entry.\nServer Name : wcdra1kfpap",
@@ -2286,11 +1616,6 @@
       "RelatedStory": "E2E INT ITSM SRDB"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5322)",
-        "etag": "W/\"15\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "Yes",
       "Title": "Add Relationship to CI testcase fails from SOAP UI.",
@@ -2303,11 +1628,6 @@
       "RelatedStory": "E2E INT INC WEB SERVICE"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5324)",
-        "etag": "W/\"11\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "HW/OS info tab is not getting green check mark for platform \"High Density\"",
@@ -2320,11 +1640,6 @@
       "RelatedStory": "E2E-SRM_BULK"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5325)",
-        "etag": "W/\"19\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "Not able to search K articles using Search KM",
@@ -2337,11 +1652,6 @@
       "RelatedStory": "Not Applicable"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5326)",
-        "etag": "W/\"42\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "Owning External System Id  Field is blank ",
@@ -2354,11 +1664,6 @@
       "RelatedStory": "E2E INT ITSM-MXO INCIDENT"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5327)",
-        "etag": "W/\"40\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "There are no Worklog entries for Maximo ebond and DSW ebond",
@@ -2371,11 +1676,6 @@
       "RelatedStory": "E2E INT ITSM INC-DSW"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5328)",
-        "etag": "W/\"25\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "Yes",
       "Title": "User is not able to search for Knowledge and Work order from Global Search.",
@@ -2388,11 +1688,6 @@
       "RelatedStory": "E2E FTS"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5331)",
-        "etag": "W/\"15\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "Yes",
       "Title": "Impact,urgency and priority values in NEWS are not as per those selected in ITSM Incident.",
@@ -2405,11 +1700,6 @@
       "RelatedStory": "SMORE-14768"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5332)",
-        "etag": "W/\"13\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "Auto: DRA data not found in UAT1 ",
@@ -2422,11 +1712,6 @@
       "RelatedStory": "E2E-SRM_BULK"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5342)",
-        "etag": "W/\"56\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "Incorrect values displaying in Impact and Priority fields.",
@@ -2439,11 +1724,6 @@
       "RelatedStory": "SMORE-15043"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5343)",
-        "etag": "W/\"35\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "Knowledge articles are not displayed even though they have the same values mentioned in change form",
@@ -2456,11 +1736,6 @@
       "RelatedStory": "SMORE-14291"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5344)",
-        "etag": "W/\"23\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "Change coordinator is able to attach the attachments in Task tab when the change in \"Implementation in progress\" status and the task is in \"work in progress\" status",
@@ -2473,11 +1748,6 @@
       "RelatedStory": "SMORE-14441"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5346)",
-        "etag": "W/\"11\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "SIT1 - Escalation does not seem to be running or could have missing proper rpc queue setup for escalations",
@@ -2490,11 +1760,6 @@
       "RelatedStory": "Not Applicable"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5347)",
-        "etag": "W/\"7\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "Training UAT Issue Tracker Please close ",
@@ -2507,11 +1772,6 @@
       "RelatedStory": "US-CE Training Scr"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5348)",
-        "etag": "W/\"7\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "Issue Tracker Training Please close ",
@@ -2524,11 +1784,6 @@
       "RelatedStory": "Not Applicable"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5349)",
-        "etag": "W/\"29\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "In correct summary value is getting populated while relating the KM Article to Change Request",
@@ -2541,11 +1796,6 @@
       "RelatedStory": "SMORE-14481"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5350)",
-        "etag": "W/\"29\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "Status & Start Date of attached KM article is not getting displayed in Change request.",
@@ -2558,11 +1808,6 @@
       "RelatedStory": "SMORE-14481"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5351)",
-        "etag": "W/\"27\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "Error Message is getting displayed while adding the same deleted KM article with same Change request.",
@@ -2575,11 +1820,6 @@
       "RelatedStory": "SMORE-14481"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5354)",
-        "etag": "W/\"15\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "Priority Field value is not getting updated in Incident Ticket while updating the ticket from SOAP UI",
@@ -2592,11 +1832,6 @@
       "RelatedStory": "SMORE-15036"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5355)",
-        "etag": "W/\"7\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "Issue Tracker Training Please close. ",
@@ -2609,11 +1844,6 @@
       "RelatedStory": "US-CE Training Scr"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5356)",
-        "etag": "W/\"7\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "One more Issue tracker training item. Please close ",
@@ -2626,11 +1856,6 @@
       "RelatedStory": "Not Applicable"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5357)",
-        "etag": "W/\"11\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "Request is not enforcing standard Band 5 auto - approval and is requiring 1st level manager approval ",
@@ -2643,11 +1868,6 @@
       "RelatedStory": "US-IPcenter Access"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5358)",
-        "etag": "W/\"17\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "work order routed to default ITOP-CORE-TPM-Reassign-GLBL and not to the correct fulfillment group ",
@@ -2660,11 +1880,6 @@
       "RelatedStory": "US-IPcenter Access"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5359)",
-        "etag": "W/\"17\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "Change Manager is able to attach the attachments in Task tab when the change in \"Implementation in progress\" status and the task is in \"work in progress\" status",
@@ -2677,11 +1892,6 @@
       "RelatedStory": "SMORE-14441"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5360)",
-        "etag": "W/\"33\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "Tag & Location data (Nlyte) Coming from MDH Not Updating on Storage Devices",
@@ -2694,11 +1904,6 @@
       "RelatedStory": "SMORE-14337"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5361)",
-        "etag": "W/\"11\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "Error: Required field (without a default) not specified : Manager Group*+ (ARERR 9424)  when saving",
@@ -2711,11 +1916,6 @@
       "RelatedStory": "US-CM-001 NormRL2"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5362)",
-        "etag": "W/\"19\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "system hangs after I clicked the magnifying glass  icon",
@@ -2728,11 +1928,6 @@
       "RelatedStory": "US-CM-001 NormRL2"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5364)",
-        "etag": "W/\"22\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "Getting timeout error when clicked on impact analysis",
@@ -2745,11 +1940,6 @@
       "RelatedStory": "E2E Change 1"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5365)",
-        "etag": "W/\"23\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "Knowledge search Results open without list of Knowledge articles",
@@ -2762,11 +1952,6 @@
       "RelatedStory": "SMORE-14294"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5367)",
-        "etag": "W/\"23\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "Getting Error message when trying to close the task which is in \"work in progress\" status and attachments added to it and Change is in \"Implementation in progress\" ",
@@ -2779,11 +1964,6 @@
       "RelatedStory": "SMORE-14441"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5368)",
-        "etag": "W/\"13\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "Testers no longer listed please add (Carlotta (Florence) Moses, Victoria Lozano-Patrick, Don Buck)",
@@ -2796,11 +1976,6 @@
       "RelatedStory": "Not Applicable"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5369)",
-        "etag": "W/\"22\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "The message Popup displayed does not depict what exactly is happening when clicked on Yes/No buttons.This applies to message Popup for Out of Range Dates warning as well",
@@ -2813,11 +1988,6 @@
       "RelatedStory": "SMORE-14431"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5370)",
-        "etag": "W/\"7\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "The missing 2 records that link the Pricing table to the admin tool ",
@@ -2830,11 +2000,6 @@
       "RelatedStory": "SMORE-14389"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5371)",
-        "etag": "W/\"11\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "Risk level gets reflected only when clicked on \"Save\" and not automatically as per Release 3.0",
@@ -2847,11 +2012,6 @@
       "RelatedStory": "US-CM-001 NormRL2"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5372)",
-        "etag": "W/\"14\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "Impact Analysis is timing out in UAT1",
@@ -2864,11 +2024,6 @@
       "RelatedStory": "US-CM-001 NormRL2"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5373)",
-        "etag": "W/\"17\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "risk level is 4",
@@ -2881,14 +2036,9 @@
       "RelatedStory": "US-CM-004 NormRL5"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5374)",
-        "etag": "W/\"13\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
-      "Title": "When running impact analysis,Timeout during database update -- the operation has been accepted by the server and will usually complete successfully : itsm-uat1arapp.bankofamerica.com:39604 ONC/RPC call timed out (ARERR 92)",
+      "Title": "When running impact analysis,Timeout during database update -- the operation has been accepted by the server and will usually complete successfully : itsm-uat1arapp.yourcompany.com:39604 ONC/RPC call timed out (ARERR 92)",
       "SeverityValue": "2-High",
       "TestStatusValue": "Passed",
       "StatusValue": "Closed",
@@ -2898,11 +2048,6 @@
       "RelatedStory": "Not Applicable"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5375)",
-        "etag": "W/\"19\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "No E-mail triggered to Fulfillment team",
@@ -2915,11 +2060,6 @@
       "RelatedStory": "SMORE-14389"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5376)",
-        "etag": "W/\"22\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "The eSMART Report does not display Related CIs that are causing the Impacted CIs to show up in the Impact Analysis.",
@@ -2932,11 +2072,6 @@
       "RelatedStory": "SMORE-14511"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5377)",
-        "etag": "W/\"47\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "BladeLogic Enrollment Status & BladeLogic Message are not displayed.\n Please see attached screenshot.",
@@ -2949,11 +2084,6 @@
       "RelatedStory": "SMORE-14323"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5380)",
-        "etag": "W/\"28\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "BL Enrollment - Blank Note is displayed after downloading the CSV file.",
@@ -2966,11 +2096,6 @@
       "RelatedStory": "SMORE-14323"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5381)",
-        "etag": "W/\"13\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "Promote section is in Queued status",
@@ -2983,11 +2108,6 @@
       "RelatedStory": "SMORE-14302"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5382)",
-        "etag": "W/\"13\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "Article ID field is not populated in Article page. Also, Article Expiration Date is wrong",
@@ -3000,11 +2120,6 @@
       "RelatedStory": "SMORE-14302"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5383)",
-        "etag": "W/\"17\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "Blade logic server - Able to add more then 1500 server names to Server Enrollment request.",
@@ -3017,11 +2132,6 @@
       "RelatedStory": "SMORE-14323"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5384)",
-        "etag": "W/\"21\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "Uploaded Article is not present in the KM console page",
@@ -3034,11 +2144,6 @@
       "RelatedStory": "SMORE-14302"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5385)",
-        "etag": "W/\"31\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "Status of KM ARTICLE is getting displayed as \"BLANK\"  in CI relationship tab.",
@@ -3051,11 +2156,6 @@
       "RelatedStory": "Adhoc"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5386)",
-        "etag": "W/\"37\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "Incorrect Summary value of KM article is getting displayed in Request Summary column for CI",
@@ -3068,11 +2168,6 @@
       "RelatedStory": "Adhoc"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5387)",
-        "etag": "W/\"19\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "Yes",
       "Title": "A pop up note message is getting displayed before the KM article get related to PM request.",
@@ -3085,11 +2180,6 @@
       "RelatedStory": "SMORE-14475"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5388)",
-        "etag": "W/\"27\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "No impact analysis re-run message generated.",
@@ -3102,11 +2192,6 @@
       "RelatedStory": "US-CM-001 NormRL2"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5389)",
-        "etag": "W/\"9\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "Yes",
       "Title": "A pop up note message is getting displayed before the KM article get related to PM request",
@@ -3119,11 +2204,6 @@
       "RelatedStory": "SMORE-14475"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5390)",
-        "etag": "W/\"27\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "Only summary field is populated with the Change summary value. The Name field is empty.",
@@ -3136,11 +2216,6 @@
       "RelatedStory": "US-CM-002 NormRL3"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5391)",
-        "etag": "W/\"6\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "Change Manager converts nbid and tool does not accept.",
@@ -3153,11 +2228,6 @@
       "RelatedStory": "US-CM-001 NormRL2"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5392)",
-        "etag": "W/\"13\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "Only summary field is populated with the Change summary value. The Name field is empty.",
@@ -3170,11 +2240,6 @@
       "RelatedStory": "US-CM-002 NormRL3"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5393)",
-        "etag": "W/\"17\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "Previous fix missed in this release. Select window for templates spins indefinitely.",
@@ -3187,11 +2252,6 @@
       "RelatedStory": "US-CM-010 StdChg"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5394)",
-        "etag": "W/\"14\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "There should not be a 'cancel' link under 'My Requests' section .",
@@ -3204,11 +2264,6 @@
       "RelatedStory": "SMORE-14327"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5395)",
-        "etag": "W/\"41\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "Receiving an Error Message when creating a ticket from a template",
@@ -3221,11 +2276,6 @@
       "RelatedStory": "Not Applicable"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5396)",
-        "etag": "W/\"45\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "PERF: HP Task not getting closed",
@@ -3238,11 +2288,6 @@
       "RelatedStory": "Not Applicable"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5397)",
-        "etag": "W/\"17\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "Incorrect value is getting populated before the Title name & also status value as BLANK.",
@@ -3255,11 +2300,6 @@
       "RelatedStory": "SMORE-14382"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5398)",
-        "etag": "W/\"7\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "Impact field on change record clears if no value is brought over from CI impact field",
@@ -3272,11 +2312,6 @@
       "RelatedStory": "Not Applicable"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5399)",
-        "etag": "W/\"23\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "Impact field on change record clears out when null value on impact field from CI",
@@ -3289,11 +2324,6 @@
       "RelatedStory": "Not Applicable"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5400)",
-        "etag": "W/\"27\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "Risk Questionnaire change appears to have fallen out.",
@@ -3306,11 +2336,6 @@
       "RelatedStory": "Not Applicable"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5401)",
-        "etag": "W/\"17\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "I can select higher risk level in dropdown but when I Save it reverts back to CRQ driven risk",
@@ -3323,11 +2348,6 @@
       "RelatedStory": "Not Applicable"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5402)",
-        "etag": "W/\"11\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "Impacted Area remain unchanged. ",
@@ -3340,11 +2360,6 @@
       "RelatedStory": "US-PBI-Impacted A"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5403)",
-        "etag": "W/\"39\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "No CI record displayed in Maximo .",
@@ -3357,11 +2372,6 @@
       "RelatedStory": "E2E INT ITSM MOAB-RB-CHP-MXO"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5405)",
-        "etag": "W/\"35\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "Work Info not created for the Incident submitted in SIT1.",
@@ -3374,11 +2384,6 @@
       "RelatedStory": "SMORE-15042"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5406)",
-        "etag": "W/\"39\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "BladeLogic Status & BladeLogic Message are not displayed.",
@@ -3391,11 +2396,6 @@
       "RelatedStory": "SMORE-14329"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5407)",
-        "etag": "W/\"15\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "Change Coordinator: <As defined in Person record> Name not listed",
@@ -3408,11 +2408,6 @@
       "RelatedStory": "US-CM-001"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5409)",
-        "etag": "W/\"11\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "Search Article Issue from Design Console",
@@ -3425,11 +2420,6 @@
       "RelatedStory": "SMORE-14482"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5410)",
-        "etag": "W/\"13\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "BladeLogic Server Decommission edit changes the servername to lower case",
@@ -3442,11 +2432,6 @@
       "RelatedStory": "SMORE-14330"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5411)",
-        "etag": "W/\"37\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "Knowledge Submitter permission not applied to GTO/Process Roles",
@@ -3459,11 +2444,6 @@
       "RelatedStory": "SMORE-14157"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5412)",
-        "etag": "W/\"17\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "It failed as I do not have execute access",
@@ -3476,11 +2456,6 @@
       "RelatedStory": "US-CM-002 NormRL3"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5417)",
-        "etag": "W/\"16\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "status field is set to Request for change",
@@ -3493,11 +2468,6 @@
       "RelatedStory": "US-CM-004 NormRL5"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5419)",
-        "etag": "W/\"19\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "Possible errors in Script",
@@ -3510,11 +2480,6 @@
       "RelatedStory": "Not Applicable"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5420)",
-        "etag": "W/\"11\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "No 'Apply Filters' link displayed.",
@@ -3527,11 +2492,6 @@
       "RelatedStory": "US-DLA SMORE-13784"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5421)",
-        "etag": "W/\"39\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "Unable to view the KM Article , When we click on view button by selecting the KM Article  having record id & is related  to CI ",
@@ -3544,11 +2504,6 @@
       "RelatedStory": "14382"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5422)",
-        "etag": "W/\"16\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "The impact field was not updated- Error Message : Required Field cannot be blank IMPACT* ARERR 326",
@@ -3561,11 +2516,6 @@
       "RelatedStory": "US-CM-004 NormRL5"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5423)",
-        "etag": "W/\"27\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "Incident in Remedy is not resolved ",
@@ -3578,11 +2528,6 @@
       "RelatedStory": "E2E INT ITSM-MXO INCIDENT"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5424)",
-        "etag": "W/\"10\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "The impact Field is not updated.  Error Message : Required field cannot be Blank - Impact * ARERR 326",
@@ -3595,11 +2540,6 @@
       "RelatedStory": "US-CM-010 StdChg"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5425)",
-        "etag": "W/\"11\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "Generated three alerts and Netcool sees them 'FailAppError' from Remedy.",
@@ -3612,11 +2552,6 @@
       "RelatedStory": "SMORE-12345"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5426)",
-        "etag": "W/\"13\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "DSW- issues deploying the update into the Boomi Pilot environment",
@@ -3629,11 +2564,6 @@
       "RelatedStory": "Not Applicable"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5427)",
-        "etag": "W/\"37\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "HP Configuration Issue",
@@ -3646,11 +2576,6 @@
       "RelatedStory": "SMORE-15229"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5428)",
-        "etag": "W/\"13\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "SRF Notifications ",
@@ -3663,11 +2588,6 @@
       "RelatedStory": "SMORE-14356"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5429)",
-        "etag": "W/\"25\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "Yes",
       "Title": "ChangeCon cannot roll back in-scope CRQs that already have closed tasks",
@@ -3680,11 +2600,6 @@
       "RelatedStory": "Not Applicable"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5430)",
-        "etag": "W/\"19\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "Add approvers failed",
@@ -3697,11 +2612,6 @@
       "RelatedStory": "Not Applicable"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5431)",
-        "etag": "W/\"11\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "I am unable to log into UAT1 (my nbk4ugr)",
@@ -3714,11 +2624,6 @@
       "RelatedStory": "Not Applicable"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5432)",
-        "etag": "W/\"7\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "Service Request ID entered and hit Return key.  The service request is not visible in Infrastructure Requests section of page.",
@@ -3731,11 +2636,6 @@
       "RelatedStory": "US-DLA SMORE-13784"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5433)",
-        "etag": "W/\"21\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "According to the approval grid for normal changes, there is no change analyst approval for risk level 3. Please confirm.",
@@ -3748,11 +2648,6 @@
       "RelatedStory": "Not Applicable"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5434)",
-        "etag": "W/\"11\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "Clicking \"Create Relationship To\" does not do anything or show an error message.",
@@ -3765,11 +2660,6 @@
       "RelatedStory": "US-IM-011"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5435)",
-        "etag": "W/\"22\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "Got attachment but error around the Service Impact Assessment",
@@ -3782,11 +2672,6 @@
       "RelatedStory": "US-US-CM-298 RCRL"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5436)",
-        "etag": "W/\"5\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "(NO ENTRIES IN MENU) FOR QUICK ACTIONS DROP DOWN",
@@ -3799,11 +2684,6 @@
       "RelatedStory": "US-CM-002 NormRL3"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5437)",
-        "etag": "W/\"14\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "Education item. Please read comments",
@@ -3816,11 +2696,6 @@
       "RelatedStory": "US-US-CM-298 RCRL"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5438)",
-        "etag": "W/\"19\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "Error message that Related Cost was not populated.",
@@ -3833,11 +2708,6 @@
       "RelatedStory": "US-CIU FIN TAB"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5439)",
-        "etag": "W/\"9\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "Entry does not exist in database (ARERR 302).",
@@ -3850,11 +2720,6 @@
       "RelatedStory": "US-CM-051 WrkInfo"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5440)",
-        "etag": "W/\"27\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "Yes",
       "Title": "One off failure, please read comments",
@@ -3867,11 +2732,6 @@
       "RelatedStory": "US-US-CM-298 RCRL"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5441)",
-        "etag": "W/\"13\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "Black Box Smart Hands Routing",
@@ -3884,11 +2744,6 @@
       "RelatedStory": "Not Applicable"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5443)",
-        "etag": "W/\"17\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "Did not see Cancelled as one of the Status values.",
@@ -3901,11 +2756,6 @@
       "RelatedStory": "US-PBI-Task Mgmt"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5444)",
-        "etag": "W/\"5\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "the task doesn't show in the \"details and task\" area unless I click on a specific incident record.  \n \nINC000000311838TAS000000382310\n ",
@@ -3918,11 +2768,6 @@
       "RelatedStory": "US-IM-007"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5445)",
-        "etag": "W/\"29\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "US-PBI Create - US-PBI CREATE_1",
@@ -3935,11 +2780,6 @@
       "RelatedStory": "Not Applicable"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5446)",
-        "etag": "W/\"15\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "Error when trying to save record :\n \nThis task (or group) must be activated (from the parent) before it can be changed to the status: Work in Progress (ARERR 45093)",
@@ -3952,11 +2792,6 @@
       "RelatedStory": "US-IM-027"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5447)",
-        "etag": "W/\"33\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "Already added task attachments are not displayed after the Change moved to closed status when logged in with change coordinator/Change manager",
@@ -3969,11 +2804,6 @@
       "RelatedStory": "SMORE-14441"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5448)",
-        "etag": "W/\"9\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "Unable to open the script document using microsoft infopath.",
@@ -3986,11 +2816,6 @@
       "RelatedStory": "Not Applicable"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5449)",
-        "etag": "W/\"19\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "No TAS record showing on Overview Console in Home",
@@ -4003,11 +2828,6 @@
       "RelatedStory": "US-IM-028"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5450)",
-        "etag": "W/\"13\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "No data returned and got error.",
@@ -4020,11 +2840,6 @@
       "RelatedStory": "US-CM-001 NormRL2"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5452)",
-        "etag": "W/\"23\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "Impact Analysis Message - update to 500 CIs",
@@ -4037,11 +2852,6 @@
       "RelatedStory": "Not Applicable"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5453)",
-        "etag": "W/\"15\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "Change approval is not get generated  for Risk Level-5",
@@ -4054,11 +2864,6 @@
       "RelatedStory": "Not Applicable"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5455)",
-        "etag": "W/\"19\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "Risk level 3 change CRQ000000199327, pending on EPE and TRB group for approvals. TRB group is present twice but there is no change analyst group pending approval",
@@ -4071,11 +2876,6 @@
       "RelatedStory": "Not Applicable"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5456)",
-        "etag": "W/\"11\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "Job - \"BAC MDH Master Job For CMDB\" failed in SIT1",
@@ -4088,11 +2888,6 @@
       "RelatedStory": "SMORE-14337"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5457)",
-        "etag": "W/\"16\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "Error message. appears to be permissions issue.",
@@ -4105,11 +2900,6 @@
       "RelatedStory": "US-CM-003 NormRL4"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5458)",
-        "etag": "W/\"25\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "Latent change - Cannot update tasks as I do not have read/write acess",
@@ -4122,11 +2912,6 @@
       "RelatedStory": "Not Applicable"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5459)",
-        "etag": "W/\"9\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "Slow Response, Timing Out, Not Responding when working in Change Management",
@@ -4139,11 +2924,6 @@
       "RelatedStory": "Not Applicable"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5460)",
-        "etag": "W/\"22\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "Please check the routing table for the following locations:\nAdd mail code, IL4-135; remove mail code, CA9-705.\nCA9-702 does not route to a BB Smart Hands queue (see REQ000000291560)",
@@ -4156,11 +2936,6 @@
       "RelatedStory": "US-BBox SH Voice 1"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5461)",
-        "etag": "W/\"22\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "got an error message when I selected back to review and authorize, stating had a one open task.",
@@ -4173,11 +2948,6 @@
       "RelatedStory": "US-US-CM-236 TskD"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5462)",
-        "etag": "W/\"13\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "More of a UI issue than a bug around the way the tool flags Categorization fields that are required.",
@@ -4190,11 +2960,6 @@
       "RelatedStory": "Not Applicable"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5463)",
-        "etag": "W/\"15\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "Status still Rejected after following steps to Restart.",
@@ -4207,11 +2972,6 @@
       "RelatedStory": "US-US-CM IMPCOLL"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5464)",
-        "etag": "W/\"11\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "I still think there is a Risk Questionnaire issue. Comments and screenshots",
@@ -4224,11 +2984,6 @@
       "RelatedStory": "Not Applicable"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5465)",
-        "etag": "W/\"11\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "Yes",
       "Title": "Search function is 'Grayed' out.  Unable to bring up the Menu list to select \"Configuration Item\"",
@@ -4241,11 +2996,6 @@
       "RelatedStory": "US-KM-14473"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5466)",
-        "etag": "W/\"13\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "Required currency value not specified : : Related Cost* (ARERR 44516)",
@@ -4258,11 +3008,6 @@
       "RelatedStory": "US-CIU FIN TAB"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5467)",
-        "etag": "W/\"13\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "US-PBI-Create PKE3",
@@ -4275,11 +3020,6 @@
       "RelatedStory": "Not Applicable"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5468)",
-        "etag": "W/\"21\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "unable to find Generic Incident Template ",
@@ -4292,11 +3032,6 @@
       "RelatedStory": "Not Applicable"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5469)",
-        "etag": "W/\"21\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "The cursor waits on Root Cause Tier 2 instead of at Tier 1. Please amend",
@@ -4309,11 +3044,6 @@
       "RelatedStory": "US-PBI-Enforce RC"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5470)",
-        "etag": "W/\"19\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "In the Status field, there is no Cancelled status - there is just Closed. If you select Closed - then can select the Status Reason as Cancelled ( since the Option is available in this drop down )",
@@ -4326,11 +3056,6 @@
       "RelatedStory": "US-PBI-Task Mgmt"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5471)",
-        "etag": "W/\"25\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "No error displayed - status shows as Corrected",
@@ -4343,11 +3068,6 @@
       "RelatedStory": "US-PKE-Task Mgmt"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5472)",
-        "etag": "W/\"19\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "For Storage and Network CIs fields are not reverted back to what MDH had before update was done in Remedy.",
@@ -4360,11 +3080,6 @@
       "RelatedStory": "SMORE-14337"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5473)",
-        "etag": "W/\"19\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "CI deleted from Remedy not re-created on MDH run.",
@@ -4377,11 +3092,6 @@
       "RelatedStory": "SMORE-14337"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5474)",
-        "etag": "W/\"15\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "I don’t see any existing PBI record",
@@ -4394,11 +3104,6 @@
       "RelatedStory": "US-PBI-Task Assign"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5475)",
-        "etag": "W/\"39\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "Unable to assign test scripts to Vineet Verma",
@@ -4411,11 +3116,6 @@
       "RelatedStory": "Not Applicable"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5476)",
-        "etag": "W/\"7\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 4.0",
       "ExistInProdValue": "No",
       "Title": "Training Issue Please Close ",
@@ -4434,11 +3134,6 @@
 {
   "d": [
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(4175)",
-        "etag": "W/\"29\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 3.0",
       "ExistInProdValue": "No",
       "Title": "Alternate Approver is not listed under Approval History on Request Detail page",
@@ -4451,11 +3146,6 @@
       "RelatedStory": "SMORE-13745"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(4239)",
-        "etag": "W/\"227\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 3.0",
       "ExistInProdValue": "No",
       "Title": "ENG env: UI - Buttons Overlapped in Design Console (DLA)",
@@ -4468,11 +3158,6 @@
       "RelatedStory": "SMORE-12345"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(4264)",
-        "etag": "W/\"185\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 3.0",
       "ExistInProdValue": null,
       "Title": "After selecting an incident template for the first time we are unable to select another template before saving",
@@ -4485,11 +3170,6 @@
       "RelatedStory": "SMORE-12345"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(4452)",
-        "etag": "W/\"17\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 3.0",
       "ExistInProdValue": "No",
       "Title": "Many AI jobs will not run in DEV1 as part of the Release 3.0 SP2 validation.",
@@ -4502,11 +3182,6 @@
       "RelatedStory": "Not Applicable"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(4457)",
-        "etag": "W/\"185\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 3.0",
       "ExistInProdValue": "No",
       "Title": "IE is running in Compatibility View. Please remove Mid-tier URL from either IE Compatibility View Settings or Registry location. (ARWARN 9429)",
@@ -4519,11 +3194,6 @@
       "RelatedStory": "Not Applicable"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(4484)",
-        "etag": "W/\"193\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 3.0",
       "ExistInProdValue": "No",
       "Title": "\"Notify Assignee\" field blank on the template. ",
@@ -4536,11 +3206,6 @@
       "RelatedStory": "Not Applicable"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(4490)",
-        "etag": "W/\"17\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 3.0",
       "ExistInProdValue": "No",
       "Title": "Purchase Date field selector icon being different size than other date selector icons on Asset forms",
@@ -4553,11 +3218,6 @@
       "RelatedStory": "Not Applicable"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(4494)",
-        "etag": "W/\"19\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 3.0",
       "ExistInProdValue": "No",
       "Title": "Unable to find the created EP  request in Approval centre page.",
@@ -4570,11 +3230,6 @@
       "RelatedStory": "E2E_SRM_EP_8.1"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(4495)",
-        "etag": "W/\"80\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 3.0",
       "ExistInProdValue": "No",
       "Title": "On Advanced_CI search page, Dataset dropdown shows blank.",
@@ -4587,11 +3242,6 @@
       "RelatedStory": "Not Applicable"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(4496)",
-        "etag": "W/\"193\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 3.0",
       "ExistInProdValue": "No",
       "Title": "Unable to configure Approval Mapping on Dev1 with ITSM SP2",
@@ -4604,14 +3254,9 @@
       "RelatedStory": "Not Applicable"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(4497)",
-        "etag": "W/\"13\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 3.0",
       "ExistInProdValue": "No",
-      "Title": "A popup displays with bankofamerica.com is not responding.  There is a Recover webpage button.  Clicking the button does not recover the webpage.",
+      "Title": "A popup displays with yourcompany.com is not responding.  There is a Recover webpage button.  Clicking the button does not recover the webpage.",
       "SeverityValue": "2-High",
       "TestStatusValue": "Passed",
       "StatusValue": "Closed",
@@ -4621,11 +3266,6 @@
       "RelatedStory": "E2E Knowledge Management"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(4502)",
-        "etag": "W/\"11\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 3.0",
       "ExistInProdValue": "No",
       "Title": "ARERR 9506 Upon Log In",
@@ -4638,11 +3278,6 @@
       "RelatedStory": "Not Applicable"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(4505)",
-        "etag": "W/\"39\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 3.0",
       "ExistInProdValue": "No",
       "Title": "Create storage & Delete Storage form display an error.",
@@ -4655,11 +3290,6 @@
       "RelatedStory": "E2E INT ITSM Storage Auto"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(4513)",
-        "etag": "W/\"17\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 3.0",
       "ExistInProdValue": "No",
       "Title": "AIT ID not populating-unable to select any AIT ID.",
@@ -4672,11 +3302,6 @@
       "RelatedStory": "E2E ITSM  INT MOAB"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(4514)",
-        "etag": "W/\"19\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 3.0",
       "ExistInProdValue": "No",
       "Title": "No Entry in \"Notification Audit\" tab present for notification sent.",
@@ -4689,11 +3314,6 @@
       "RelatedStory": "E2E_ITSM_PRB"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(4515)",
-        "etag": "W/\"19\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 3.0",
       "ExistInProdValue": "No",
       "Title": "On Behalf of Username not showing properly.",
@@ -4706,11 +3326,6 @@
       "RelatedStory": "E2E SRF"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(4516)",
-        "etag": "W/\"21\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 3.0",
       "ExistInProdValue": "No",
       "Title": "Error message got populated when we try to generate a new HOST name",
@@ -4723,11 +3338,6 @@
       "RelatedStory": "E2E-SRM_BULK"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(4517)",
-        "etag": "W/\"39\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 3.0",
       "ExistInProdValue": "No",
       "Title": "Articles not going for approval to the Approver Ids (UserIDs  - LDT7093 and LDT7094)",
@@ -4740,11 +3350,6 @@
       "RelatedStory": "E2E Knowledge Management"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(4518)",
-        "etag": "W/\"189\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 3.0",
       "ExistInProdValue": "No",
       "Title": "Data Network: Service Type drop down not listed any values for selection.",
@@ -4757,11 +3362,6 @@
       "RelatedStory": "E2E SRF"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(4519)",
-        "etag": "W/\"13\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 3.0",
       "ExistInProdValue": "No",
       "Title": "Bulk Update button is overlapped by Bulk Submit button",
@@ -4774,11 +3374,6 @@
       "RelatedStory": "E2E-SRM_BULK"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(4520)",
-        "etag": "W/\"13\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 3.0",
       "ExistInProdValue": "Yes",
       "Title": "Getting an error while creating Incident using Webservice.",
@@ -4791,11 +3386,6 @@
       "RelatedStory": "E2E INT INC WEB SERVICE"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(4521)",
-        "etag": "W/\"59\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 3.0",
       "ExistInProdValue": "No",
       "Title": "Issue with the Aproval Engine - all the Change request are getting stuck in Scheduled for Approval.",
@@ -4808,11 +3398,6 @@
       "RelatedStory": "E2E Change #4"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(4522)",
-        "etag": "W/\"37\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 3.0",
       "ExistInProdValue": "No",
       "Title": "IE9 - Getting an error when saving the CI = No entry is specified for this statiscal operation ",
@@ -4825,11 +3410,6 @@
       "RelatedStory": "Not Applicable"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(4523)",
-        "etag": "W/\"199\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 3.0",
       "ExistInProdValue": "No",
       "Title": "Manage CIs > Advanced Search - Counts Are No Longer Visible - Msg Displays There are No Records When Records are Returned",
@@ -4842,11 +3422,6 @@
       "RelatedStory": "Not Applicable"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(4524)",
-        "etag": "W/\"21\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 3.0",
       "ExistInProdValue": "No",
       "Title": "Manage CIs > Advanced Search - Serial Number Field Entry is Not Cleared",
@@ -4859,11 +3434,6 @@
       "RelatedStory": "Not Applicable"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(4525)",
-        "etag": "W/\"15\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 3.0",
       "ExistInProdValue": "No",
       "Title": "CI Selection Issue while Creating Change Request",
@@ -4876,11 +3446,6 @@
       "RelatedStory": "Not Applicable"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(4526)",
-        "etag": "W/\"13\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 3.0",
       "ExistInProdValue": "No",
       "Title": "Decom requests are not displayed in Approval Central.",
@@ -4893,11 +3458,6 @@
       "RelatedStory": "E2E_ApplicationDecom"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(4527)",
-        "etag": "W/\"25\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 3.0",
       "ExistInProdValue": "No",
       "Title": "Field Overlapping issue on Specifications tab",
@@ -4910,11 +3470,6 @@
       "RelatedStory": "Not Applicable"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(4528)",
-        "etag": "W/\"21\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 3.0",
       "ExistInProdValue": "No",
       "Title": "NEWLY ADDED FIELDS on AST forms in SP2 - should be read-only",
@@ -4927,11 +3482,6 @@
       "RelatedStory": "Not Applicable"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(4529)",
-        "etag": "W/\"35\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 3.0",
       "ExistInProdValue": "No",
       "Title": "Job Console page is not opening",
@@ -4944,11 +3494,6 @@
       "RelatedStory": "Not Applicable"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(4530)",
-        "etag": "W/\"21\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 3.0",
       "ExistInProdValue": "No",
       "Title": "Waiting Approval request not coming into approval central",
@@ -4961,11 +3506,6 @@
       "RelatedStory": "E2E Application Server_8.1"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(4532)",
-        "etag": "W/\"25\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 3.0",
       "ExistInProdValue": "No",
       "Title": "Refresh Icon on Manage CIs > Advanced Search Disappears After Initial Search",
@@ -4978,11 +3518,6 @@
       "RelatedStory": "Not Applicable"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(4533)",
-        "etag": "W/\"29\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 3.0",
       "ExistInProdValue": "No",
       "Title": "IE9 - Unable to Expand Menus Once They Have Been Collapsed",
@@ -4995,11 +3530,6 @@
       "RelatedStory": "Not Applicable"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(4534)",
-        "etag": "W/\"41\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 3.0",
       "ExistInProdValue": "No",
       "Title": "IE9 - Manually Created CIRCUIT CI is Not Moving to BMC Asset & Many Fields That Contained Data Are Now Blank When CI Viewed in Sandbox",
@@ -5012,11 +3542,6 @@
       "RelatedStory": "E2E Circuit CI "
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(4535)",
-        "etag": "W/\"29\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 3.0",
       "ExistInProdValue": "No",
       "Title": "Unable to Add Work Info Entry on Initial Creation of a CI - Error Message Also Contains Misspellings",
@@ -5029,11 +3554,6 @@
       "RelatedStory": "Not Applicable"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(4536)",
-        "etag": "W/\"33\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 3.0",
       "ExistInProdValue": "No",
       "Title": "IE9 - ACCOUNT CI Created via Load template is not displaying all the field values and Not Moving to BMC Asset.",
@@ -5046,11 +3566,6 @@
       "RelatedStory": "E2E Asset_Account"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(4537)",
-        "etag": "W/\"13\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 3.0",
       "ExistInProdValue": "No",
       "Title": "CI without product name and manufacturer is not appeared in BMC.ASSET.SANDBOX",
@@ -5063,11 +3578,6 @@
       "RelatedStory": "Not Applicable"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(4538)",
-        "etag": "W/\"78\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 3.0",
       "ExistInProdValue": "No",
       "Title": "IE9 - Transaction Asset Load Erroring - Account & Circuit Tests ",
@@ -5080,11 +3590,6 @@
       "RelatedStory": "Not Applicable"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(4539)",
-        "etag": "W/\"25\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 3.0",
       "ExistInProdValue": "No",
       "Title": "IE9 - DMT Job Console Functions Area Not Displaying Correctly",
@@ -5097,11 +3602,6 @@
       "RelatedStory": "Not Applicable"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(4540)",
-        "etag": "W/\"199\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 3.0",
       "ExistInProdValue": "No",
       "Title": "Function Navigation Item throws error",
@@ -5114,11 +3614,6 @@
       "RelatedStory": "Not Applicable"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(4541)",
-        "etag": "W/\"23\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 3.0",
       "ExistInProdValue": "No",
       "Title": "IE9 - Circuit CI Created Via a Load Is Not Moving to BMC Asset ",
@@ -5131,11 +3626,6 @@
       "RelatedStory": "E2E Circuit CI"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(4542)",
-        "etag": "W/\"19\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 3.0",
       "ExistInProdValue": "No",
       "Title": "Create storage & Delete Storage form display an error - WebService application Unavailable",
@@ -5148,11 +3638,6 @@
       "RelatedStory": "E2E INT ITSM Storage Auto"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(4543)",
-        "etag": "W/\"19\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 3.0",
       "ExistInProdValue": "No",
       "Title": "In \"Related Records\" TAB Owning External System ID is not generating \"Owning External System ID\" field.",
@@ -5165,11 +3650,6 @@
       "RelatedStory": "SMORE-11965"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(4544)",
-        "etag": "W/\"19\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 3.0",
       "ExistInProdValue": "No",
       "Title": "AUTO : ITBM Application is not working ",
@@ -5182,11 +3662,6 @@
       "RelatedStory": "E2E_ITBM_8.1"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(4547)",
-        "etag": "W/\"23\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 3.0",
       "ExistInProdValue": "No",
       "Title": "KM-0158 - System prompts to save article and should not for a KM Viewer (SP2 Fix) (IT 2789 - SMORE-13278)",
@@ -5199,11 +3674,6 @@
       "RelatedStory": "SMORE-13873"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(4548)",
-        "etag": "W/\"21\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 3.0",
       "ExistInProdValue": "No",
       "Title": "Screen Jumps When Initially Selecting Advanced Filter & Location Filter On Asset Console",
@@ -5216,11 +3686,6 @@
       "RelatedStory": "Not Applicable"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(4549)",
-        "etag": "W/\"7\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 3.0",
       "ExistInProdValue": "No",
       "Title": "SR Design - SR->Request ->Buttons at the bottom are over Written",
@@ -5233,11 +3698,6 @@
       "RelatedStory": "Not Applicable"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(4551)",
-        "etag": "W/\"13\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 3.0",
       "ExistInProdValue": "No",
       "Title": "Support Group missing from SIT1",
@@ -5250,11 +3710,6 @@
       "RelatedStory": "E2E EM IM"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(4552)",
-        "etag": "W/\"13\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 3.0",
       "ExistInProdValue": "No",
       "Title": "BMC Remedy ITSM Application fly-out (application menu) in version 8.1.0 with SP2 applied appears blurred",
@@ -5267,11 +3722,6 @@
       "RelatedStory": "Not Applicable"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(4553)",
-        "etag": "W/\"11\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 3.0",
       "ExistInProdValue": "No",
       "Title": "KM-0188 Relocate and Resize window as desired",
@@ -5290,11 +3740,6 @@
 {
   "d": [
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(1042)",
-        "etag": "W/\"166\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 2.0",
       "ExistInProdValue": "No",
       "Title": "For Testing Purposes - Notepad does not open",
@@ -5307,11 +3752,6 @@
       "RelatedStory": "Not Applicable"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(3477)",
-        "etag": "W/\"30\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 2.0",
       "ExistInProdValue": "No",
       "Title": "AUTO: The current Decom dataloads are not working. Development is yet to provide updated decom data load files as the current files and process is not working. Alex Sheperd is also aware of this.",
@@ -5324,11 +3764,6 @@
       "RelatedStory": "E2E_ApplicationDecom"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(3507)",
-        "etag": "W/\"44\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 2.0",
       "ExistInProdValue": "No",
       "Title": "AUTO: Change is not going to second level of approval like CAB Approver, Impacted area Approval etc",
@@ -5341,11 +3776,6 @@
       "RelatedStory": "Not Applicable"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(3559)",
-        "etag": "W/\"291\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 2.0",
       "ExistInProdValue": "No",
       "Title": "SMORE-13718 EP New Field - Number of Plug – Field is not visible in the Design Console for WLM",
@@ -5358,11 +3788,6 @@
       "RelatedStory": "SMORE-13718"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(3580)",
-        "etag": "W/\"40\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 2.0",
       "ExistInProdValue": "No",
       "Title": "CI Records Missing in Remedy for Non Banking Center Printers noted in Outbound extract. ",
@@ -5375,11 +3800,6 @@
       "RelatedStory": "SMORE-13907"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(3595)",
-        "etag": "W/\"27\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 2.0",
       "ExistInProdValue": "No",
       "Title": "Remedy jobs are taking considerable amount of time to be complete (more then 6 hours) which is delaying the testing.",
@@ -5392,11 +3812,6 @@
       "RelatedStory": "SMORE-13408"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(3596)",
-        "etag": "W/\"35\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 2.0",
       "ExistInProdValue": "No",
       "Title": "REM2NEWS - Stop Escalations are not consistently and as expected. (Defect ID: 2915)",
@@ -5409,11 +3824,6 @@
       "RelatedStory": "SMORE-13896"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(3600)",
-        "etag": "W/\"18\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 2.0",
       "ExistInProdValue": "No",
       "Title": "REQ000000163729 No check mark in Header/Facility Info tab. Bold fields completed but error says they are not. ",
@@ -5426,11 +3836,6 @@
       "RelatedStory": "SMORE-13266"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(3604)",
-        "etag": "W/\"24\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 2.0",
       "ExistInProdValue": "No",
       "Title": "CIs Missing OS Relationships Noted in Outbound Extracts",
@@ -5443,11 +3848,6 @@
       "RelatedStory": "Not Applicable"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(3605)",
-        "etag": "W/\"37\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 2.0",
       "ExistInProdValue": "No",
       "Title": "Why is EMEA Service Requests appearing in the US Region Design Console for the WLM?",
@@ -5460,11 +3860,6 @@
       "RelatedStory": "SMORE-12985"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(3606)",
-        "etag": "W/\"274\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 2.0",
       "ExistInProdValue": "No",
       "Title": "The new field – Material Id No is not being past to the Equipment Placement approval process",
@@ -5477,11 +3872,6 @@
       "RelatedStory": "SMORE-12895"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(3622)",
-        "etag": "W/\"14\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 2.0",
       "ExistInProdValue": "No",
       "Title": "The host unmapping page that the \"Click here\" link points to has been relocated",
@@ -5494,11 +3884,6 @@
       "RelatedStory": "SMORE-12589"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(3629)",
-        "etag": "W/\"16\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 2.0",
       "ExistInProdValue": "No",
       "Title": "The site name does show correctly, but there is no label to make sure that it is in the correct place.",
@@ -5511,11 +3896,6 @@
       "RelatedStory": "US-REQF-Host-007"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(3633)",
-        "etag": "W/\"52\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 2.0",
       "ExistInProdValue": "No",
       "Title": "Multiple entries are displaying in capability list field",
@@ -5528,11 +3908,6 @@
       "RelatedStory": "SMORE-13907"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(3634)",
-        "etag": "W/\"14\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 2.0",
       "ExistInProdValue": "No",
       "Title": "Access issue - Greg Worth",
@@ -5545,11 +3920,6 @@
       "RelatedStory": "Not Applicable"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(3644)",
-        "etag": "W/\"12\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 2.0",
       "ExistInProdValue": "No",
       "Title": "UAT Runbook does not come up into Search mode",
@@ -5562,11 +3932,6 @@
       "RelatedStory": "US-REQF-Host-005"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(3659)",
-        "etag": "W/\"27\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 2.0",
       "ExistInProdValue": "No",
       "Title": "AUTO: User With Problem and Incident Access Not able to Create Incident Ticket",
@@ -5579,11 +3944,6 @@
       "RelatedStory": "E2E_ITSM_IM"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(3660)",
-        "etag": "W/\"87\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 2.0",
       "ExistInProdValue": "No",
       "Title": "LAPTOP CIs -Some of the fields & relationship for the modified CI does not get updated from MDH",
@@ -5596,11 +3956,6 @@
       "RelatedStory": "SMORE-13469"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(3661)",
-        "etag": "W/\"45\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 2.0",
       "ExistInProdValue": "No",
       "Title": "Software Server - LPAR Relationship added manually should not display under relationship tab After MDH  Run",
@@ -5613,11 +3968,6 @@
       "RelatedStory": "SMORE-13543"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(3663)",
-        "etag": "W/\"60\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 2.0",
       "ExistInProdValue": "No",
       "Title": "APPLIANCE CIs - Values of the CI are not reflected correctly after running the MDH and Remedy jobs.",
@@ -5637,11 +3987,6 @@
 {
   "d": [
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5233)",
-        "etag": "W/\"13\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 3.2",
       "ExistInProdValue": "No",
       "Title": "Banking Center Phone and Features",
@@ -5654,11 +3999,6 @@
       "RelatedStory": "SMORE-14983"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5244)",
-        "etag": "W/\"17\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 3.2",
       "ExistInProdValue": "No",
       "Title": "Data Connectivity SRD - WO not getting initiated ",
@@ -5671,11 +4011,6 @@
       "RelatedStory": "Not Applicable"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5245)",
-        "etag": "W/\"11\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 3.2",
       "ExistInProdValue": "No",
       "Title": "Field Services SRD not promoted in UAT",
@@ -5688,11 +4023,6 @@
       "RelatedStory": "Not Applicable"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5248)",
-        "etag": "W/\"11\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 3.2",
       "ExistInProdValue": "No",
       "Title": "no SRD available ",
@@ -5705,11 +4035,6 @@
       "RelatedStory": "US-Media Service"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5252)",
-        "etag": "W/\"11\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 3.2",
       "ExistInProdValue": "No",
       "Title": "Standard Phone and Features - SRD unavailable for review in the Sharepoint under 3.2 folder",
@@ -5722,11 +4047,6 @@
       "RelatedStory": "SMORE-14976"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5253)",
-        "etag": "W/\"7\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 3.2",
       "ExistInProdValue": "No",
       "Title": "SRD unavailable for SMORE-15071 under Release 3.2 folder in the Sharepoint",
@@ -5739,11 +4059,6 @@
       "RelatedStory": "SMORE-15071"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5254)",
-        "etag": "W/\"11\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 3.2",
       "ExistInProdValue": "No",
       "Title": "Requirements unclear for SMORE-14857 (Communication Enabled Business Solutions)",
@@ -5756,11 +4071,6 @@
       "RelatedStory": "SMORE-14857"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5256)",
-        "etag": "W/\"11\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 3.2",
       "ExistInProdValue": "No",
       "Title": "Information missing for SMORE-15092 - Field service",
@@ -5773,11 +4083,6 @@
       "RelatedStory": "SMORE-15092"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5262)",
-        "etag": "W/\"17\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 3.2",
       "ExistInProdValue": "No",
       "Title": "The Request Manager group is wrong for the \"Disconnect\" option.",
@@ -5790,11 +4095,6 @@
       "RelatedStory": "US-1st Mtg Phone"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5263)",
-        "etag": "W/\"12\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 3.2",
       "ExistInProdValue": "No",
       "Title": "This offering no longer displays in the catalog",
@@ -5807,11 +4107,6 @@
       "RelatedStory": "US-Banking Ctr Pho"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5266)",
-        "etag": "W/\"5\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 3.2",
       "ExistInProdValue": "No",
       "Title": "When changing the mail code (I used NY3-222-02-01), it does not display for selection in the drop-down box.",
@@ -5824,11 +4119,6 @@
       "RelatedStory": "US-CEBS "
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5267)",
-        "etag": "W/\"16\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 3.2",
       "ExistInProdValue": "No",
       "Title": "There is no time zone prompt.",
@@ -5841,11 +4131,6 @@
       "RelatedStory": "US-1st Mtg Phone"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5268)",
-        "etag": "W/\"11\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 3.2",
       "ExistInProdValue": "No",
       "Title": "SRC for Canada Server Port REQ Incorrect",
@@ -5858,11 +4143,6 @@
       "RelatedStory": "SMORE-14975"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5275)",
-        "etag": "W/\"12\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 3.2",
       "ExistInProdValue": "No",
       "Title": "mailcode did not appear in confirmation box ",
@@ -5875,11 +4155,6 @@
       "RelatedStory": "US-Field Services "
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5276)",
-        "etag": "W/\"15\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 3.2",
       "ExistInProdValue": "No",
       "Title": "Prod Cats :Services>Hosting>Data Transportation ",
@@ -5892,11 +4167,6 @@
       "RelatedStory": "US-Data Network Co"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5278)",
-        "etag": "W/\"13\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 3.2",
       "ExistInProdValue": "No",
       "Title": "The service form and SRD don't match.  According to the SRD, \"Please indicate Service Type = Change Phone Number\" should have a \"Provide ISP Download Speed (Mb/s)\" selection",
@@ -5909,11 +4179,6 @@
       "RelatedStory": "US-Teleworker"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5279)",
-        "etag": "W/\"15\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 3.2",
       "ExistInProdValue": "No",
       "Title": "I think this is missing a word:\nPlease provide the Area Code and Phone Number of the existing phone where you would like your new phone's shared voicemail. ",
@@ -5926,11 +4191,6 @@
       "RelatedStory": "US-Banking Ctr Pho"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5280)",
-        "etag": "W/\"12\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 3.2",
       "ExistInProdValue": "No",
       "Title": "Type of Service Needed = \"Install\" AND WOBanking Center Phone & Features ",
@@ -5943,11 +4203,6 @@
       "RelatedStory": "US-Banking Ctr Pho"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5281)",
-        "etag": "W/\"17\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 3.2",
       "ExistInProdValue": "No",
       "Title": "Submitted a Remove; Avaya; Remove VM.  WO's for Avaya and Cisco appear to generate in parallel on the Flow tab, but generate in serial in SIT2 ",
@@ -5960,11 +4215,6 @@
       "RelatedStory": "US-Teleworker"
     },
     {
-      "__metadata": {
-        "uri": "http://sharepoint3.bankofamerica.com/sites/qualitymgmt/tm/_vti_bin/ListData.svc/IssueTracker(5286)",
-        "etag": "W/\"16\"",
-        "type": "Microsoft.SharePoint.DataService.IssueTrackerItem"
-      },
       "Release": "Remedy Release 3.2",
       "ExistInProdValue": "No",
       "Title": "Work order routes to NETW-CISCO-VOICE MOVE ADD CHANGE DELETE TEAM-STANDARD.\n \nPer the script, there are 2 different support groups listed.",
