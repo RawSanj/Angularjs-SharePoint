@@ -1,25 +1,25 @@
 /*    /*CSS to display Modal at center*/
-    .vertical-alignment-helper {
-	    display:table;
-	    height: 100%;
-	    width: 100%;
-	    pointer-events:none;
-	}
-	.vertical-align-center {
+ /*   .vertical-alignment-helper {*/
+	/*    display:table;*/
+	/*    height: 100%;*/
+	/*    width: 100%;*/
+	/*    pointer-events:none;*/
+	/*}*/
+	/*.vertical-align-center {*/
 	    /* To center vertically */
-	    display: table-cell;
-	    vertical-align: middle;
-	    pointer-events:none;
-	}
-	.modal-content {
+	/*    display: table-cell;*/
+	/*    vertical-align: middle;*/
+	/*    pointer-events:none;*/
+	/*}*/
+	/*.modal-content {*/
 	    /* Bootstrap sets the size of the modal in the modal-dialog class, we need to inherit it */
-	    width:inherit;
-	    height:inherit;
+	/*    width:inherit;*/
+	/*    height:inherit;*/
 	    /* To center horizontally */
-	    margin: 0 auto;
-	    pointer-events:all;
-	    width: 1000px;
-	}
+	/*    margin: 0 auto;*/
+	/*    pointer-events:all;*/
+	/*    width: 1000px;*/
+	/*}*/
 	
 	.modal-align-right{
 		margin-top: 30px;
