@@ -1,6 +1,7 @@
 # Angularjs-SharePoint-REST-Bootstrap
 
 This is a demo for how to use AngularJS to fetch data from SharePoint Rest APIs.
+
   - AngularJs
   - SharePoint Odata Rest
   - UI Bootstrap
@@ -23,7 +24,6 @@ Angularjs-SharePoint-REST-Bootstrap uses a number of open source projects:
 
 ### Installation
 
-You need Gulp installed globally:
 
 ```sh
 $ git clone https://github.com/RawSanj/Angularjs-SharePoint.git
